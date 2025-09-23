@@ -473,7 +473,7 @@ settings.allow_creative_menu Activer le menu créatif
 settings.allow_godmode Invincibilité
 settings.mob_spawning Apparition des monstres
 settings.current_language Langue actuelle
-settings.language_info Redémarrez votre jeu pour appliquer correctement la langue sélectionnée.
+settings.language_info Redémarrez votre jeu pour appliquer la langue sélectionnée.
 
 settings_category.video Vidéo
 settings_category.audio Audio

@@ -1,0 +1,668 @@
+item.copper_pickaxe Pioche en cuivre
+item.copper_sword Épée en cuivre
+item.copper_axe Hache en cuivre
+item.copper_ingot Lingot de cuivre
+item.iron_ingot Lingot de fer
+item.health_potion Potion de soin
+item.empty Vide
+item.stone Pierre
+item.unknown Inconnu
+item.dirt Terre
+item.grass Herbes
+item.planks Planches
+item.water Eau (ancienne)
+item.sand Sable
+item.lamp_warm Lumière chaude
+item.lamp_white Lumière blanche
+item.lamp_blue Lumière bleue
+item.lava Lave (ancienne)
+item.blockMetaDataTest Bloc de test des métadonnées
+item.log Bûche
+item.leaves Feuilles
+item.grass_tall Hautes herbes
+item.workbench Établi
+item.workbench.desc Peut fabriquer des objets plus complexes.
+item.worldBorder Bordure
+item.worldBorder.desc Si vous avez pu obtenir ça, c'est soit que vous trichez, soit que mon jeu est cassé ):
+item.copper_ore Minerai de cuivre
+item.copper_ore.desc Peut être fondu en lingots
+item.iron_ore Minerai de fer
+item.iron_ore.desc Peut être fondu en lingots
+item.coal_ore Minerai de charbon
+item.furnace Fourneau
+item.glowing_mushroom Champignon luisant
+item.torch Torche
+item.crate Caisse
+item.stone_brick Briques de pierre
+item.glass Verre
+item.stone_brick_small Petites briques de pierre
+item.clay Argile
+item.clay_brick_small Briques d'argile
+item.copper_plated_stone Pierre plaquée de cuivre
+item.iron_plated_stone Pierre plaquée de fer
+item.flint_pickaxe Pioche en silex
+item.flint_sword Épée en silex
+item.flint_axe Hache en silex
+item.core Noyau
+item.flint Silex
+item.iron_pickaxe Pioche en fer
+item.iron_sword Épée en fer
+item.iron_axe Hache en fer
+item.red_mushroom Champignon rouge
+item.allumerium_ore Minerai d'allumérium
+item.chest Coffre
+item.silver_pickaxe Pioche en acier
+item.silver_sword Épée en acier
+item.silver_axe Hache en acier
+item.gold_pickaxe Pioche en or
+item.gold_sword Épée en or
+item.gold_axe Hache en or
+item.silver_ingot Lingot d'acier
+item.gold_ingot Lingot d'or
+item.sandstone Grès
+item.snow Neige
+item.ice Glace
+item.silver_ore Minerai d'acier
+item.gold_ore Minerai d'or
+item.silver_plated_stone Pierre plaquée d'acier
+item.gold_plated_stone Pierre plaquée d'or
+item.sandstone_brick Briques de grès
+item.snow_brick Briques de neige
+item.stone_block Bloc de pierre
+item.lamp_red Lumière rouge
+item.lamp_green Lumière verte
+item.flint_hammer Marteau
+item.flint_hammer.desc Permet de changer la forme des blocs
+item.bagel Bagel
+item.everything_bagel Bagel de l'infini
+item.everything_bagel.desc Un bagel avec une infinité de saveurs.
+item.blueberry Myrtille
+item.birch_log Bûche de bouleau
+item.maple_log Bûche d'érable
+item.maple_leaves Feuilles d'érable
+item.blueberry_bush Myrtillier
+item.light_sponge Éponge à lumière
+item.light_sponge.desc Ne fonctionne pas pour l'instant. ):
+item.door Porte
+
+item.copper_helmet Casque en cuivre
+item.iron_helmet Casque en fer
+item.silver_helmet Casque en acier
+item.gold_helmet Casque en or
+
+item.copper_chestplate Plastron en cuivre
+item.iron_chestplate Plastron en fer
+item.silver_chestplate Plastron en acier
+item.gold_chestplate Plastron en or
+item.copper_greaves Jambières en cuivre
+item.iron_greaves Jambières en fer
+item.silver_greaves Jambières en acier
+item.gold_greaves Jambières en or
+item.dynamite Dynamite
+item.dynamite.desc Génial pour jouer à la balle.
+item.daffodil Jonquille
+item.rose Rose
+item.dandelion Pissenlit
+item.cobblestone Pierres taillées
+item.potion_station Atelier d'alchimie
+item.cooking_station Atelier de cuisine
+item.stair_test Escalier de test
+item.slab_test Dalle de test
+item.fence_test Barrière de test
+item.branch_test Branche test
+item.ladder Échelle
+item.dynamite_block Bloc de dynamite
+item.dynamite_block.desc Aimeriez-vous exploser !?
+item.cactus_sword Épée en cactus
+item.wood_bow Arc en bois
+item.slingshot Lance-pierres
+item.arrow Flèche
+item.rock Caillou
+item.shuriken Shuriken
+item.dart Fléchette
+item.wand Baguette
+item.wand.desc Utilisée pour sélectionner deux points lors d'une commande.
+item.frozen_stone Pierre gelée
+item.grass_tall_snowy Herbes enneigées
+item.grass_tall_dry Herbes sèches
+item.dead_bush Buisson mort
+item.desert_bush Buisson du désert
+item.agave Agave
+item.cactus_flower Fleur de cactus
+item.cactus_small Petit cactus
+item.cactus Cactus
+item.maple_sapling Samare d'érable
+item.oak_sapling Gland de chêne
+item.birch_sapling Chaton de bouleau
+item.frost_algae Algues de gel
+item.slime_algae Algues de slime
+item.pine_leaves Feuilles de pin
+item.forest_pickaxe Pioche forestière
+item.forest_pickaxe.desc Toujours creuser vers le bas :)
+item.entwiner Entrelaceur
+item.entwiner.desc Entrelace magiquement un déclencheur à une destination.
+item.heart_beet Batte-cœur
+item.heart_beet.desc Augmente les PV maximum d'un cœur !
+item.iron_chest Coffre en fer
+item.gold_chest Coffre en or
+item.dungeon_bricks Briques du donjon forestier
+item.dungeon_grate Grille du donjon forestier
+item.dungeon_lamp Lanterne de donjon
+item.dungeon_lamp_blue Lanterne de donjon bleue
+item.dungeon_pressure_plate Plaque de pression de donjon
+item.dungeon_door Porte de donjon
+item.pressure_plate Plaque de pression
+item.button Bouton
+item.splitter Répartiteur
+item.splitter.desc Répartit un signal entre les blocs adjacents.
+item.pulser Impulseur
+item.pulser.desc Étend une impulsion d'entrelacement.
+item.dart_trap Piège de fléchettes
+item.dart_trap.desc Tire des fléchettes empoisonnées.
+
+item.thorn_blade Lame d'épines
+item.regen_charm Pierre de régénération
+item.regen_charm.desc Restaure 1 PV toutes les 4 secondes.
+item.jet_boots Bottes à réaction
+item.jet_boots.desc Sautez en l'air pour les enclencher, possèdent 1 seconde de carburant.
+item.spring_boots Bottes à ressorts
+item.spring_boots.desc Augmentent la hauteur de saut à 2 mètres.
+item.paraglider Parapente
+item.paraglider.desc Permet de descendre lentement depuis très haut.
+item.jumping_bean Haricot sauteur
+item.jumping_bean.desc Augmente les dégâts de mêlée de 20 %, mais il y a un hic.
+item.sneakers Sneakers
+item.sneakers.desc Porter ces sneakers vous permet de vous accroupir.
+item.gecko_gloves Gants de gecko
+item.gecko_gloves.desc Porter ces gants vous permet de grimper aux murs.
+item.speed_boots Chaussures de course
+item.speed_boots.desc Porter ces chaussures vous permet de courir.
+item.oak_log Bûche de chêne
+item.pine_log Bûche de pin
+item.pine_sapling Pomme de pin
+item.birch_planks Planches de bouleau
+item.maple_planks Planches d'érable
+item.pine_planks Planches de pin
+item.framed_glass Verre grillagé
+item.red_brick Brique rouge
+item.lamp_cyan Lumière cyan
+item.lamp_magenta Lumière magenta
+item.lamp_yellow Lumière jaune
+item.copper_bars Barreaux en cuivre
+item.iron_bars Barreaux en fer
+item.silver_bars Barreaux en acier
+item.gold_bars Barreaux en or
+item.concrete Béton
+item.concrete.desc Permet de se déplacer 1,2 fois plus vite.
+item.asphalt Asphalte
+item.asphalt.desc Permet de se déplacer 1,2 fois plus vite.
+item.thick_birch_log Bûche épaisse de bouleau
+item.thick_maple_log Bûche épaisse d'érable
+item.thick_oak_log Bûche épaisse de chêne
+item.thick_pine_log Bûche épaisse de pin
+item.trampoline Trampoline
+item.trampoline.desc Vous permet de rebondir très haut.
+item.launch_pad Rampe de lancement
+item.launch_pad.desc Vous propulse dans les airs.
+item.cloth Tissu
+item.cloth_light_grey Tissu gris clair
+item.cloth_dark_grey Tissu gris foncé
+item.cloth_black Tissu noir
+item.cloth_red Tissu rouge
+item.cloth_orange Tissu orange
+item.cloth_yellow Tissu jaune
+item.cloth_lime Tissu vert citron
+item.cloth_green Tissu vert
+item.cloth_cyan Tissu cyan
+item.cloth_blue Tissu bleu
+item.cloth_dark_blue Tissu bleu foncé
+item.cloth_purple Tissu violet
+item.cloth_pink Tissu rose
+item.cloth_light_pink Tissu rose clair
+item.cloth_brown Tissu marron
+
+item.weak_health_potion Petite potion de soin
+item.weak_health_potion.desc Restaure 10 PV.
+item.poison_potion Potion de poison
+item.poison_potion.desc La boire n'est pas recommandé !
+item.speed_potion Potion de rapidité
+item.regen_potion Potion de régénération
+item.regen_potion.desc Redonne lentement des cœurs pendant 5 minutes.
+item.armour_potion Potion de blindage
+item.armour_potion.desc Augmente votre défense de 4 points pendant 5 minutes.
+item.respawn_potion Potion de retour
+item.respawn_potion.desc Potion de retour
+item.flight_potion Potion de vol
+item.flight_potion Vous permet de faire un court boost de fusée pendant 1 minute.
+item.cure_cube Cube de guérison
+item.cure_cube.desc L'équiper vous immunise contre le poison.
+item.cotton_plant Coton
+item.cotton_plant.desc Peut être planté et cultivé.
+item.decoration_station Atelier de décoration
+item.decoration_station.desc Utilisé pour fabriquer des blocs décoratifs.
+item.dungeon_spawner Générateur de donjon
+item.copper_bow Arc en cuivre
+item.iron_bow Arc en fer
+item.silver_bow Arc en acier
+item.gold_bow Arc en or
+item.copper_crossbow Arbalète en cuivre
+item.iron_crossbow Arbalète en fer
+item.silver_crossbow Arbalète en acier
+item.gold_crossbow Arbalète en or
+item.reinforced_arrow Flèche renforcée
+item.flaming_arrow Flèche enflammée
+item.explosive_arrow Flèche explosive
+item.root_arrow Marante
+item.rock_melon Melon rocailleux
+item.watermelon Pastèque
+item.brick Brique
+item.brick.desc Pour jeter sur ce que vous n'aimez pas.
+item.throwable_torch Torche jetable
+item.squeaky_toy Pouêt-pouêt
+item.whoopee_cushion Coussin péteur
+item.air_horn Klaxon
+item.glow_worms Vers luisants
+item.heart_beet_block Batte-cœur (Bloc)
+item.sandstone_brick_small Petites briques de grès
+item.toy_crate Caisse de jouets
+item.sprinkler Arroseur
+item.soil Sol aride
+item.wet_soil Sol humide
+item.arrow_root_seed Graines de marante
+item.bomb_berry_seed Graines de baie-bombe
+item.rock_melon_seed Graines de melon rocailleux
+item.watermelon_seed Graines de pastèque
+item.frying_pan Poêle à frire
+item.boomerang Boomerang
+item.throwable_glow_bean Haricot luisant
+item.watering_can Arrosoir
+item.watering_can.desc Toujours magiquement plein.
+item.hoe Houe
+item.tomato Tomate
+item.bread Pain de mie
+item.wheat Blé
+item.bomb_berry Baie-bombe
+item.bomb_berry.desc Attention : Ne la mangez pas chez vous.
+item.ominous_deer_skull Crâne de cerf menaçant
+item.oak_leaves Feuilles de chêne
+item.placed_glow_bean Haricot luisant (Bloc)
+item.weapon_crate Caisse d'armes
+item.forest_chest Coffre forestier
+item.tomato_seed Graines de tomate
+item.wheat_seed Graines de blé
+item.glow_bean_seed Graines de haricot luisant
+item.weeds Mauvaises herbes
+item.spider_web Toile d'araignée
+item.pizza_cutter Coupe pizza
+item.crowbar Pied de biche
+item.melon_slicer Trancheuse de pastèque
+item.forest_axe Hache forestière
+item.snowball_cannon Lance-boules de neige
+item.snowball Boule de neige
+item.forest_ingot Lingot forestier
+item.eightball Boule magique
+item.dice Dé
+item.basketball Ballon de basket
+item.bucket Seau
+item.water_bucket Seau d'eau
+item.lava_bucket Seau de lave
+item.sponge Éponge
+item.lava_sponge Éponge de lave
+item.forest_blessing Bénédiction de la forêt
+item.forest_blessing.desc Accorde 2 secondes d'endurance en plus.
+item.minecart Wagonnet
+item.minecart.desc Poser sur un rail pour rouler.
+item.underground_bush Buisson des florabysses
+item.undergrowth_rock Pierre des florabysses
+item.forest_flower Fleur forestière
+item.lava_lily Nénuphar de lave
+item.bubble_glass Bulle de verre
+item.undergrowth_crate Caisse des florabysses
+item.spike_trap Piège à pointes
+item.dynamite_trap Piège à dynamite
+item.basket_hoop Panier de basket
+item.rail Rail
+item.painting_child Objet des métadonnées de peinture
+item.painting_melon Peinture (Melon)
+item.painting_melon.desc Une nature morte... ou un autoportrait.
+item.painting_triangle Peinture (Triangle)
+item.painting_triangle.desc L'élément fondamental de la vie.
+item.painting_stars Peinture (Etoiles)
+item.painting_pipes Peinture (Tuyaux)
+item.painting_cloud Peinture (Nuage rose)
+item.painting_waves Peinture (Vagues)
+item.painting_biome Peinture (Biome)
+item.painting_deer Peinture (Cerf)
+item.spawn_pointer Pointeur d'apparition
+item.spawn_pointer.desc Clic droit pour définir votre point d'apparition.
+item.forest_helmet Casque forestier
+item.forest_chestplate Plastron forestier
+item.forest_greaves Jambières forestières
+item.skull_fragment Fragment de crâne
+
+item.cobalt_pickaxe Pioche en cobalt
+item.cobalt_sword Épée en cobalt
+item.arctic_blade Lame arctique
+item.big_sword Grande épée
+item.baguette Baguette
+item.frosted_boomerang Boomerang glacé
+item.cobalt_spear Lance en cobalt
+item.cobalt_axe Hache en cobalt
+item.cobalt_helmet Casque en cobalt
+item.cobalt_chestplate Plastron en cobalt
+item.cobalt_greaves Jambières en cobalt
+item.cobalt_bow Arc en cobalt
+item.cobalt_crossbow Arbalète en cobalt
+item.snowball_splitter Lance-boules de neige à double canon
+item.flamethrower Lance-flammes
+item.fart_gun Lance-prouts
+item.cobalt_ingot Lingot de cobalt
+item.copper_coin Jeton en cuivre
+item.silver_coin Jeton en argent
+item.gold_coin Jeton en or
+item.allumerium_coin Jeton en allumérium
+item.mining_potion Potion de minage
+item.mint Menthe
+item.red_meat Viande rouge
+item.steak Steak
+item.red_mushroom_item Champignon rouge
+item.glowing_mushroom_item Champignon luisant
+item.magnet Aimant
+item.magnet.desc Attire les objets dans un rayon de 4 mètres.
+item.scuba_helmet Masque de plongée
+item.scuba_helmet.desc Permet de respirer sous l'eau.
+item.curse_of_core Malédiction du cœur
+item.curse_of_core.desc Peut provoquer douleur et souffrance.
+item.cosmic_radiation Radiation cosmique
+item.cosmic_radiation.desc Peut provoquer une perturbation de bits.
+item.paint_roller Rouleau de peinture
+item.paint_roller_earthy Rouleau de peinture (palette naturelle)
+item.paint_roller_pastel Rouleau de peinture (palette pastel)
+item.wallpaper Papier peint
+item.wallpaper.desc Ne s'applique que sur des plaques de plâtre.
+item.permafrost Pergélisol
+item.cobalt_ore Minerai de cobalt
+item.amethyst_ore Améthyste
+item.sapphire_ore Saphir
+item.diamond_ore Diamant
+item.cobalt_plated_stone Pierre plaquée de cobalt
+item.alpha_shop Magasin alpha
+item.alpha_shop.desc (Sera supprimé quand les PNJs seront ajoutés)
+item.white_torch Torche blanche
+item.ice_crate Caisse de glace
+item.ice_chest Coffre de glace
+item.table Table
+item.chair Chaise
+item.basic_lamp Lampe
+item.snow_dungeon_bricks Briques de donjon enneigé
+item.snow_dungeon_lamp Lanterne de donjon enneigé
+item.pressure_plate_small Petite plaque de pression
+item.icycle Stalagtite
+item.switch Interrupteur
+item.cobalt_bars Barreaux en cobalt
+item.drywall Plaque de plâtre
+item.cotton_candy Barbe à papa
+item.amethyst_block Bloc d'améthyste
+item.sapphire_block Bloc de saphir
+item.diamond_block Bloc de diamant
+item.mint_seed Graines de menthe
+item.painting_blue Peinture (Bleu)
+item.painting_city Peinture (Ville)
+item.painting_desolate Peinture (Déserté)
+item.painting_figure Peinture (Figure)
+item.painting_bird Peinture (Oiseau)
+item.painting_undergrowth Painting (Florabysses)
+item.structure_save Sauvegarde de structure
+item.structure_load Chargement de structure
+item.structure_latch Verrou de structure
+item.structure_marker Marqueur de structure
+item.structure_noreplace Non-remplacement de structure
+item.fluid.empty Fluide vide
+item.fluid.water Eau
+item.fluid.lava Lave
+item.raygun_death Rayon de la mort
+item.ice_torch Torche de glace
+item.arcade_carpet Moquette de salle d'arcade
+item.painting_snowman Peinture (Bonhomme de neige)
+item.big_snowball Grosse boule de neige
+item.big_snowball.desc Je voudrais un bonhomme de neige...
+item.snow_boss_base Base du boss des neiges
+item.evil_tophat Haut-de-forme maléfique
+item.evil_tophat.desc 
+
+item_tag.can_place Posable
+item_tag.can_consume Consommable
+item_tag.axe_power Hache
+item_tag.pickaxe_power Pioche
+item_tag.swing_speed Recharge
+item_tag.hammer Marteau
+item_tag.cant_mine Incassable
+item_tag.restores_health Soigne
+item_tag.melee_damage Mêlée
+item_tag.defence Défense
+item_tag.required_ammo Munitions requises
+item_tag.ammo Munitions
+item_tag.ranged_damage Distance
+item_tag.trinket Ornement
+item_tag.can_block Contre
+item_tag.knockback Recul
+
+settings.field_of_view Champ de vision
+settings.max_fps FPS max.
+settings.render_distance Distance de rendu
+settings.mouse_sensitivity Sensibilité de la souris
+settings.master_volume Volume principal
+settings.max_mesh_threads Threads maillage max.
+settings.max_mesh_uploads Maillages max. par image
+settings.show_control_hints Aides de commande
+settings.auto_scale_ui Échelle auto. de l'interface
+settings.manual_ui_scale Échelle manuelle de l'interface
+settings.world_volume Volume du monde
+settings.music_volume Volume de la musique
+settings.ui_volume Volume de interface & joueur
+settings.ambient_volume Volume des sons ambients
+settings.autosave_interval Intervalle sauvegarde auto. (en minutes)
+settings.autosave_enabled Sauvegarde auto.
+settings.autosave_indicator Icône de sauvegarde auto.
+settings.panicsave_enabled Sauvegarde de secours
+settings.view_bobbing Mouvement de tête
+settings.screen_shake Secousses d'écran
+settings.allow_noclip Activer le noclip
+settings.allow_infinite_item Objets infinis
+settings.allow_creative_menu Activer le menu créatif
+settings.allow_godmode Invincibilité
+settings.mob_spawning Apparition des monstres
+
+settings_category.video Vidéo
+settings_category.audio Audio
+settings_category.controls Contrôles
+settings_category.misc Divers
+settings_category.keybinds Assignation des touches
+settings_category.cheats Triche
+
+control_hint.open_inventory Ouvrir l'inventaire
+control_hint.close_inventory Fermer
+control_hint.close_menu Fermer
+control_hint.split_stack Tout séparer
+control_hint.take_stack Tout prendre
+control_hint.drop_one Jeter
+control_hint.drop_stack Tout jeter
+control_hint.craft_one Fabriquer
+control_hint.toggle_creative Menu créatif
+control_hint.use Utiliser
+control_hint.use_item Utiliser
+control_hint.place_item Poser
+control_hint.punch Frapper
+control_hint.unequip Équiper
+control_hint.equip Déséquiper
+control_hint.change_shape Changer de forme
+control_hint.show_recipes Afficher les recettes
+
+keybind.move_forward Avancer
+keybind.move_backward Reculer
+keybind.move_left Gauche
+keybind.move_right Droite
+keybind.fly_down Voler
+keybind.fly_up Redescendre
+keybind.jump Sauter
+keybind.noclip Noclip
+keybind.place Poser / Utiliser
+keybind.punch Frapper
+keybind.place_modifier Placer une amélioration
+keybind.open_inventory Ouvrir l'inventaire
+keybind.toggle_creative_menu Menu créatif
+keybind.drop_item Jeter l'objet
+keybind.drop_modifier Jeter l'amélioration
+keybind.pause Pause
+keybind.ui_confirm Confirmer (interface)
+keybind.ui_secondary Action secondaire (interface)
+keybind.toggle_debug Écran de débogage
+keybind.toggle_profiler Écran de profilage
+keybind.toggle_fullscreen Plein écran
+keybind.ui_up Haut (interface)
+keybind.ui_down Bas (interface)
+keybind.ui_left Gauche (interface)
+keybind.ui_right Droite (interface)
+keybind.hotbar1 Barre d'action case 1
+keybind.hotbar2 Barre d'action case 2
+keybind.hotbar3 Barre d'action case 3
+keybind.hotbar4 Barre d'action case 4
+keybind.hotbar5 Barre d'action case 5
+keybind.hotbar6 Barre d'action case 6
+keybind.hotbar7 Barre d'action case 7
+keybind.hotbar8 Barre d'action case 8
+keybind.hotbar9 Barre d'action case 9
+keybind.hotbar10 Barre d'action case 10
+keybind.hotbar11 Barre d'action case 11
+keybind.hotbar12 Barre d'action case 12
+keybind.open_chat Ouvrir le chat
+keybind.send_chat Envoyer un message
+keybind.toggle_hud Basculer l'affichage de l'interface
+keybind.take_screenshot Capture d'écran
+keybind.open_radial Ouvrir le menu radial
+keybind.sneak S'accroupir
+keybind.sprint Courir
+keybind.show_use Afficher les utilisations
+keybind.show_recipe Afficher les recettes
+keybind.pick_block Prendre le bloc
+keybind.scroll_up Défiler haut
+keybind.scroll_down Défiler bas
+keybind.favourite_item Mettre en favori
+
+
+ammo.arrow Flèche
+ammo.rock Caillou
+ammo.bullet Balle
+ammo.snowball Boule de neige
+
+effect.poison Poison
+effect.desc.poison Inflige des dégâts au fil du temps.
+effect.regen Régénération
+effect.desc.regen Vous guérissez lentement au fil du temps.
+effect.wet Mouillé
+effect.desc.wet Vous êtes trempé.
+effect.slowfall Chute ralentie
+effect.desc.slowfall Vous tombez plus lentement et ne subissez pas de dégâts de chute.
+effect.fire En feu
+effect.desc.fire VOUS ÊTES EN FEU !!
+effect.healcooldown Soigné récemment
+effect.desc.healcooldown Vous devez attendre un moment avant de pouvoir guérir à nouveau.
+effect.freezing Froid
+effect.desc.freezing Vous subissez des dégâts à cause du froid.
+effect.fast Rapide
+effect.desc.fast Vous pouvez vous déplacer plus rapidement.
+effect.slow Lent
+effect.desc.slow Vous bougez plus lentement.
+effect.anchored Ancré
+effect.desc.anchored Vous êtes ancré sur place.
+effect.frozen Gelé
+effect.desc.frozen Vous êtes gelés et vous ne pouvez rien faire !
+effect.watched Observé
+effect.desc.watched ...
+effect.flight Vol
+effect.desc.flight Permet de courtes périodes de vol.
+effect.regen_potion Régénération (potion)
+effect.desc.regen_potion Vous régénérez votre santé lentement.
+effect.armoured Blindé
+effect.desc.armoured Votre défense a augmente de 4 points.
+
+effect.concussion Assommé
+effect.desc.concussion Aïe ! Vitesse de déplacement réduite.
+effect.snack En-cas léger
+effect.desc.snack Vous avez pris un en-cas, vos statistiques augmentent légèrement.
+effect.small_meal Repas léger
+effect.desc.small_meal Vous avez pris un petit repas, vos statistiques augmentent légèrement.
+effect.webbed Entravé
+effect.desc.webbed Vous êtes pris dans une toile d'araignée.
+
+
+
+effect.fast_mining Minage rapide
+effect.desc.fast_mining Augmente la vitesse de minage.
+
+crafting_station.inventory À la main
+crafting_station.work_bench Établi
+crafting_station.furnace Fourneau
+crafting_station.anvil Enclume
+crafting_station.decorations Atelier de décoration
+crafting_station.potions Atelier d'alchimie
+
+loading.tip0 Les monstres n'apparaitront que sur des blocs naturellement générés.
+loading.tip1 Appuyez sur 'R' pour afficher les recettes d'un objet.
+loading.tip2 Maintenez 'R' en tenant un bloc pour modifier sa forme.
+loading.tip3 Les pousses peuvent muter si vous laissez de la terre fertile vide.
+loading.tip4 Faites attention aux pièges souterrains et dans les donjons.
+loading.tip5 Vous pouvez poser des rails à l'envers et sur les murs.
+loading.tip6 Les torches n'empêchent pas l'apparition des monstres dans les souterrains.
+loading.tip7 Utilisez un pointeur d'apparition pour définir votre point d'apparition.
+loading.tip8 Utilisez des potions de retour pour rentrer chez vous si vous êtes perdus.
+loading.tip9 Maintenez 'Ctrl' et cliquez sur des objets pour les envoyer à la poubelle.
+loading.tip10 Vous pouvez empiler automatiquement des objets dans les coffres a proximité.
+loading.tip11 Vous pouvez trier votre inventaire.
+loading.tip12 Certaines armes peuvent bloquer les attaques ennemies.
+loading.tip13 Utilisez l'atelier de décoration pour fabriquer des objets trop cools.
+loading.tip14 Fabriquez des outils à l’aide de pierres de silex et d’un établi.
+loading.tip15 Une pioche robuste permet de creuser jusqu'à l’autre côté.
+loading.tip16 Parfois, c'est une bonne idée de creuser sous ses pieds.
+loading.tip17 Si vous trouvez un bug, merci de le signaler sur le Discord.
+loading.tip18 Des avis ? Rejoignez le Discord ou remplissez le formulaire.
+loading.tip19 La durabilité des outils n'existe pas, elle ne peut donc pas vous faire de mal.
+loading.tip20 Si vous laissez pousser des mauvaises herbes dans votre jardin, elles peuvent muter...
+loading.tip21 Appuyez sur 'F11' pour activer le mode plein écran.
+loading.tip22 Jouer au basket durant un combat de boss peut être bénéfique.
+loading.tip23 Les batte-cœur peuvent être utilisées pour augmenter votre vie maximale. 
+loading.tip24 Les flèches explosives sont dangereuses lors d'un combat rapproché.
+
+colour.clear Effacer
+colour.white Blanc
+colour.grey Gris clair
+colour.dark_grey Gris foncé
+colour.black Noir
+colour.red Rouge
+colour.orange Orange
+colour.yellow Jaune
+colour.lime Vert clair
+colour.green Vert
+colour.turqoise Turquoise
+colour.blue Bleu
+colour.dark_blue Bleu foncé
+colour.purple Violet
+colour.pink Rose
+colour.light_pink Rose clair
+colour.brown Marron
+colour.algae Algue
+colour.moss Mousse
+colour.forest Forêt
+colour.ocean Océan
+colour.mud Boue
+colour.clay Argile
+colour.sand Sable
+colour.powder Poudre
+colour.none Aucune
+colour.orange_sherbet Sorbet à l'orange
+colour.lemon_yellow Jaune citron
+colour.pale_yellow Jaune clair
+colour.mint Vert menthe
+colour.baby_blue Bleu ciel
+colour.lavender Lavande
+colour.pastel_pink Rose pastel

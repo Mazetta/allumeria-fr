@@ -1,14 +1,14 @@
-## Allumeria - fr_FR
-Cette repo est dédiée à la traduction de Allumeria en Français. (version Alpha 0.9.4)
+## Allumeria - fr-FR
+Cette repo est dédiée à la traduction de Allumeria en Français. (version Alpha 0.9.5)
 	
-## Etapes
+## Étapes
 Pour appliquer ces traductions au jeu, vous devrez effectuer ces étapes dans l'ordre :
 1. Faites le raccourci `Win + R` et entrez cette chaîne de caractères : `%appdata%`.
 2. Allez dans le dossier `\itch\apps\allumeria\res\translations`.
-3. Entrez dans le fichier appelé `en_au.txt`, ne le renommez surtout pas !
-4. Assurez vous de faire une sauvegarde du contenu présent dans ce fichier dans un autre fichier appelé `old.txt`, par exemple.
-5. Copiez/collez le contenu du fichier `fr_FR.txt` présent dans cette repo dans `en_au.txt`.
-6. Enregistrez le fichier, et voilà ! Allumeria est maintenant en Français.
+3. Créez un dossier appelé `fr-FR`.
+4. Glissez-y `info.json` et `keys.txt`.
+5. Lancez le jeu et allez dans `Settings`, puis `Language`, repérez la traduction française et appuyez sur `Apply`.
+6. Redémarrez votre jeu et le jeu sera traduit !
 	
-## Remarque
-Cette méthode n'est actuellement pas recommandée, un meilleur système de traduction sera ajouté dans le futur par le développeur du jeu.
+> [!IMPORTANT]  
+> La traduction française a été ajouté par erreur dans la version `0.9.5`, si des modifications/ajouts de traduction sont faits, vous n'aurez besoin que d'effectuer les étapes `4.` à `6.`.

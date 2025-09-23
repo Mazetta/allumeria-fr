@@ -297,7 +297,7 @@ item.pizza_cutter Coupe pizza
 item.crowbar Pied de biche
 item.melon_slicer Trancheuse de pastèque
 item.forest_axe Hache forestière
-item.snowball_cannon Lance-boules de neige
+item.snowball_cannon Canon à neige
 item.snowball Boule de neige
 item.forest_ingot Lingot forestier
 item.eightball Boule magique
@@ -472,6 +472,8 @@ settings.allow_infinite_item Objets infinis
 settings.allow_creative_menu Activer le menu créatif
 settings.allow_godmode Invincibilité
 settings.mob_spawning Apparition des monstres
+settings.current_language Langue actuelle
+settings.language_info Redémarrez votre jeu pour appliquer correctement la langue sélectionnée.
 
 settings_category.video Vidéo
 settings_category.audio Audio
@@ -479,6 +481,7 @@ settings_category.controls Contrôles
 settings_category.misc Divers
 settings_category.keybinds Assignation des touches
 settings_category.cheats Triche
+settings_category.language Langue
 
 control_hint.open_inventory Ouvrir l'inventaire
 control_hint.close_inventory Fermer

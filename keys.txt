@@ -353,7 +353,7 @@ item.cobalt_chestplate Plastron en cobalt
 item.cobalt_greaves Jambières en cobalt
 item.cobalt_bow Arc en cobalt
 item.cobalt_crossbow Arbalète en cobalt
-item.snowball_splitter Lance-boules de neige à double canon
+item.snowball_splitter Double canon à neige
 item.flamethrower Lance-flammes
 item.fart_gun Lance-prouts
 item.cobalt_ingot Lingot de cobalt

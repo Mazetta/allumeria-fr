@@ -426,7 +426,7 @@ item.arcade_carpet Moquette de salle d'arcade
 item.painting_snowman Peinture (Bonhomme de neige)
 item.big_snowball Grosse boule de neige
 item.big_snowball.desc Je voudrais un bonhomme de neige...
-item.snow_boss_base Base du boss des neiges
+item.snow_boss_base Base du bonhomme de neige maléfique
 item.evil_tophat Haut-de-forme maléfique
 item.evil_tophat.desc 
 
@@ -499,7 +499,7 @@ control_hint.punch Frapper
 control_hint.unequip Équiper
 control_hint.equip Déséquiper
 control_hint.change_shape Changer de forme
-control_hint.show_recipes Afficher les recettes
+control_hint.show_recipes Recettes
 
 keybind.move_forward Avancer
 keybind.move_backward Reculer

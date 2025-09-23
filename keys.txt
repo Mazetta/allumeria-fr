@@ -120,7 +120,7 @@ item.arrow Flèche
 item.rock Caillou
 item.shuriken Shuriken
 item.dart Fléchette
-item.wand Baguette
+item.wand Baguette magique
 item.wand.desc Utilisée pour sélectionner deux points lors d'une commande.
 item.frozen_stone Pierre gelée
 item.grass_tall_snowy Herbes enneigées

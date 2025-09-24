@@ -1,4 +1,4 @@
-## Allumeria - fr-FR
+## Allumeria fr-FR
 Cette repo est dédiée à la traduction de Allumeria en Français. (version Alpha 0.9.5)
 	
 ## Étapes

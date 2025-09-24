@@ -9,6 +9,3 @@ Pour appliquer ces traductions au jeu, vous devrez effectuer ces étapes dans l'
 4. Glissez-y `info.json` et `keys.txt`.
 5. Lancez le jeu et allez dans `Settings`, puis `Language`, repérez la traduction française et appuyez sur `Apply`.
 6. Redémarrez votre jeu et le jeu sera traduit !
-	
-> [!IMPORTANT]  
-> La traduction française a été ajouté par erreur dans la version `0.9.5`, si des modifications/ajouts de traduction sont faits, vous n'aurez besoin que d'effectuer les étapes `4.` à `6.`.

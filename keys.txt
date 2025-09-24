@@ -634,7 +634,7 @@ loading.tip19 La durabilité des outils n'existe pas, elle ne peut donc pas vous
 loading.tip20 Si vous laissez pousser des mauvaises herbes dans votre jardin, elles peuvent muter...
 loading.tip21 Appuyez sur 'F11' pour activer le mode plein écran.
 loading.tip22 Jouer au basket durant un combat de boss peut être bénéfique.
-loading.tip23 Les batte-cœur peuvent être utilisées pour augmenter votre vie maximale. 
+loading.tip23 Les batte-cœurs peuvent être utilisées pour augmenter votre vie maximale. 
 loading.tip24 Les flèches explosives sont dangereuses lors d'un combat rapproché.
 
 colour.clear Effacer

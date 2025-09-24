@@ -24,11 +24,11 @@ item.grass_tall Hautes herbes
 item.workbench Établi
 item.workbench.desc Peut fabriquer des objets plus complexes.
 item.worldBorder Bordure
-item.worldBorder.desc Si vous avez pu obtenir ça, c'est soit que vous trichez, soit que mon jeu est cassé ):
+item.worldBorder.desc Si vous avez pu obtenir ça, c'est soit que vous trichez, soit que mon jeu est cassé. ):
 item.copper_ore Minerai de cuivre
-item.copper_ore.desc Peut être fondu en lingots
+item.copper_ore.desc Peut être fondu en lingots.
 item.iron_ore Minerai de fer
-item.iron_ore.desc Peut être fondu en lingots
+item.iron_ore.desc Peut être fondu en lingots.
 item.coal_ore Minerai de charbon
 item.furnace Fourneau
 item.glowing_mushroom Champignon luisant
@@ -73,7 +73,7 @@ item.stone_block Roche polie
 item.lamp_red Lampe rouge
 item.lamp_green Lampe verte
 item.flint_hammer Marteau
-item.flint_hammer.desc Permet de changer la forme des blocs
+item.flint_hammer.desc Permet de changer la forme des blocs.
 item.bagel Bagel
 item.everything_bagel Bagel de l'infini
 item.everything_bagel.desc Un bagel avec une infinité de saveurs.
@@ -139,7 +139,7 @@ item.frost_algae Algues de gel
 item.slime_algae Algues de slime
 item.pine_leaves Feuilles de pin
 item.forest_pickaxe Pioche forestière
-item.forest_pickaxe.desc Toujours creuser vers le bas :)
+item.forest_pickaxe.desc Toujours creuser vers le bas. :)
 item.entwiner Entrelaceur
 item.entwiner.desc Entrelace magiquement un déclencheur à une destination.
 item.heart_beet Batte-cœur
@@ -232,7 +232,7 @@ item.regen_potion.desc Restaure lentement des cœurs pendant 5 minutes.
 item.armour_potion Potion de blindage
 item.armour_potion.desc Augmente votre défense de 4 points pendant 5 minutes.
 item.respawn_potion Potion de retour
-item.respawn_potion.desc Potion de retour
+item.respawn_potion.desc Vous téléporte à votre point d'apparition.
 item.flight_potion Potion de vol
 item.flight_potion.desc Permet de vous propulser pendant 1 minute.
 item.cure_cube Cube de guérison
@@ -312,7 +312,7 @@ item.lava_sponge Éponge de lave
 item.forest_blessing Bénédiction de la forêt
 item.forest_blessing.desc Accorde 2 secondes d'endurance en plus.
 item.minecart Wagonnet
-item.minecart.desc Poser sur un rail pour rouler.
+item.minecart.desc Posez-le sur un rail pour rouler.
 item.underground_bush Buisson des florabysses
 item.undergrowth_rock Roche des florabysses
 item.forest_flower Fleur forestière
@@ -335,7 +335,7 @@ item.painting_waves Peinture (Vagues)
 item.painting_biome Peinture (Biome)
 item.painting_deer Peinture (Cerf)
 item.spawn_pointer Pointeur d'apparition
-item.spawn_pointer.desc Clic droit pour définir votre point d'apparition.
+item.spawn_pointer.desc Faites un clic droit pour définir votre point d'apparition.
 item.forest_helmet Casque forestier
 item.forest_chestplate Plastron forestier
 item.forest_greaves Jambières forestières
@@ -388,7 +388,7 @@ item.sapphire_ore Saphir
 item.diamond_ore Diamant
 item.cobalt_plated_stone Roche plaquée de cobalt
 item.alpha_shop Magasin alpha
-item.alpha_shop.desc (Sera supprimé quand les PNJs seront ajoutés)
+item.alpha_shop.desc (Sera supprimé quand les PNJs seront ajoutés.)
 item.white_torch Torche blanche
 item.ice_crate Caisse de glace
 item.ice_chest Coffre de glace
@@ -429,7 +429,6 @@ item.big_snowball Grosse boule de neige
 item.big_snowball.desc Je voudrais un bonhomme de neige...
 item.snow_boss_base Base du boss des neiges
 item.evil_tophat Haut-de-forme maléfique
-item.evil_tophat.desc 
 
 item_tag.can_place Posable
 item_tag.can_consume Consommable
@@ -460,7 +459,7 @@ settings.auto_scale_ui Échelle auto. de l'interface
 settings.manual_ui_scale Échelle manuelle de l'interface
 settings.world_volume Volume du monde
 settings.music_volume Volume de la musique
-settings.ui_volume Volume de interface & joueur
+settings.ui_volume Volume de l'interface et du joueur
 settings.ambient_volume Volume des sons ambients
 settings.autosave_interval Intervalle sauvegarde auto. (en minutes)
 settings.autosave_enabled Sauvegarde auto.
@@ -611,17 +610,17 @@ crafting_station.anvil Enclume
 crafting_station.decorations Atelier de décoration
 crafting_station.potions Atelier d'alchimie
 
-loading.tip0 Les monstres n'apparaitront que sur des blocs naturellement générés.
-loading.tip1 Appuyez sur 'R' pour afficher les recettes d'un objet.
-loading.tip2 Maintenez 'R' en tenant un bloc pour modifier sa forme.
+loading.tip0 Les monstres n'apparaîtront que sur des blocs naturellement générés.
+loading.tip1 Appuyez sur «R» pour afficher les recettes d'un objet.
+loading.tip2 Maintenez «R» en tenant un bloc pour modifier sa forme.
 loading.tip3 Les pousses peuvent muter si vous laissez de la terre fertile vide.
 loading.tip4 Faites attention aux pièges souterrains et dans les donjons.
 loading.tip5 Vous pouvez poser des rails à l'envers et sur les murs.
 loading.tip6 Les torches n'empêchent pas l'apparition des monstres dans les souterrains.
 loading.tip7 Utilisez un pointeur d'apparition pour définir votre point d'apparition.
 loading.tip8 Utilisez des potions de retour pour rentrer chez vous si vous êtes perdus.
-loading.tip9 Maintenez 'Ctrl' et cliquez sur des objets pour les envoyer à la poubelle.
-loading.tip10 Vous pouvez empiler automatiquement des objets dans les coffres a proximité.
+loading.tip9 Maintenez «CTRL» et cliquez sur des objets pour les envoyer à la poubelle.
+loading.tip10 Vous pouvez empiler automatiquement des objets dans les coffres à proximité.
 loading.tip11 Vous pouvez trier votre inventaire.
 loading.tip12 Certaines armes peuvent bloquer les attaques ennemies.
 loading.tip13 Utilisez l'atelier de décoration pour fabriquer des objets trop cools.
@@ -632,7 +631,7 @@ loading.tip17 Si vous trouvez un bug, merci de le signaler sur le Discord.
 loading.tip18 Des avis ? Rejoignez le Discord ou remplissez le formulaire.
 loading.tip19 La durabilité des outils n'existe pas, elle ne peut donc pas vous faire de mal.
 loading.tip20 Si vous laissez pousser des mauvaises herbes dans votre jardin, elles peuvent muter...
-loading.tip21 Appuyez sur 'F11' pour activer le mode plein écran.
+loading.tip21 Appuyez sur «F11» pour activer le mode plein écran.
 loading.tip22 Jouer au basket durant un combat de boss peut être bénéfique.
 loading.tip23 Les batte-cœurs peuvent être utilisées pour augmenter votre vie maximale. 
 loading.tip24 Les flèches explosives sont dangereuses lors d'un combat rapproché.

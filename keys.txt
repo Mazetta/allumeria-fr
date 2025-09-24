@@ -4,17 +4,18 @@ item.copper_axe Hache en cuivre
 item.copper_ingot Lingot de cuivre
 item.iron_ingot Lingot de fer
 item.health_potion Potion de soin
+item.health_potion.desc Restaure 5 cœurs.
 item.empty Vide
-item.stone Pierre
+item.stone Roche
 item.unknown Inconnu
 item.dirt Terre
-item.grass Herbes
+item.grass Herbe
 item.planks Planches
 item.water Eau (ancienne)
 item.sand Sable
-item.lamp_warm Lumière chaude
-item.lamp_white Lumière blanche
-item.lamp_blue Lumière bleue
+item.lamp_warm Lampe chaude
+item.lamp_white Lampe blanche
+item.lamp_blue Lampe bleue
 item.lava Lave (ancienne)
 item.blockMetaDataTest Bloc de test des métadonnées
 item.log Bûche
@@ -38,8 +39,8 @@ item.glass Verre
 item.stone_brick_small Petites briques de pierre
 item.clay Argile
 item.clay_brick_small Briques d'argile
-item.copper_plated_stone Pierre plaquée de cuivre
-item.iron_plated_stone Pierre plaquée de fer
+item.copper_plated_stone Roche plaquée de cuivre
+item.iron_plated_stone Roche plaquée de fer
 item.flint_pickaxe Pioche en silex
 item.flint_sword Épée en silex
 item.flint_axe Hache en silex
@@ -51,26 +52,26 @@ item.iron_axe Hache en fer
 item.red_mushroom Champignon rouge
 item.allumerium_ore Minerai d'allumérium
 item.chest Coffre
-item.silver_pickaxe Pioche en acier
-item.silver_sword Épée en acier
-item.silver_axe Hache en acier
+item.silver_pickaxe Pioche en argent
+item.silver_sword Épée en argent
+item.silver_axe Hache en argent
 item.gold_pickaxe Pioche en or
 item.gold_sword Épée en or
 item.gold_axe Hache en or
-item.silver_ingot Lingot d'acier
+item.silver_ingot Lingot d'argent
 item.gold_ingot Lingot d'or
 item.sandstone Grès
 item.snow Neige
 item.ice Glace
-item.silver_ore Minerai d'acier
+item.silver_ore Minerai d'argent
 item.gold_ore Minerai d'or
-item.silver_plated_stone Pierre plaquée d'acier
-item.gold_plated_stone Pierre plaquée d'or
+item.silver_plated_stone Roche plaquée d'argent
+item.gold_plated_stone Roche plaquée d'or
 item.sandstone_brick Briques de grès
 item.snow_brick Briques de neige
-item.stone_block Bloc de pierre
-item.lamp_red Lumière rouge
-item.lamp_green Lumière verte
+item.stone_block Roche polie
+item.lamp_red Lampe rouge
+item.lamp_green Lampe verte
 item.flint_hammer Marteau
 item.flint_hammer.desc Permet de changer la forme des blocs
 item.bagel Bagel
@@ -87,29 +88,29 @@ item.door Porte
 
 item.copper_helmet Casque en cuivre
 item.iron_helmet Casque en fer
-item.silver_helmet Casque en acier
+item.silver_helmet Casque en argent
 item.gold_helmet Casque en or
 
 item.copper_chestplate Plastron en cuivre
 item.iron_chestplate Plastron en fer
-item.silver_chestplate Plastron en acier
+item.silver_chestplate Plastron en argent
 item.gold_chestplate Plastron en or
 item.copper_greaves Jambières en cuivre
 item.iron_greaves Jambières en fer
-item.silver_greaves Jambières en acier
+item.silver_greaves Jambières en argent
 item.gold_greaves Jambières en or
 item.dynamite Dynamite
 item.dynamite.desc Génial pour jouer à la balle.
 item.daffodil Jonquille
 item.rose Rose
 item.dandelion Pissenlit
-item.cobblestone Pierres taillées
+item.cobblestone Pierres
 item.potion_station Atelier d'alchimie
 item.cooking_station Atelier de cuisine
 item.stair_test Escalier de test
 item.slab_test Dalle de test
 item.fence_test Barrière de test
-item.branch_test Branche test
+item.branch_test Branche de test
 item.ladder Échelle
 item.dynamite_block Bloc de dynamite
 item.dynamite_block.desc Aimeriez-vous exploser !?
@@ -121,8 +122,8 @@ item.rock Caillou
 item.shuriken Shuriken
 item.dart Fléchette
 item.wand Baguette magique
-item.wand.desc Utilisée pour sélectionner deux points lors d'une commande.
-item.frozen_stone Pierre gelée
+item.wand.desc Sélectionne deux points lors d'une commande.
+item.frozen_stone Roche gelée
 item.grass_tall_snowy Herbes enneigées
 item.grass_tall_dry Herbes sèches
 item.dead_bush Buisson mort
@@ -142,11 +143,11 @@ item.forest_pickaxe.desc Toujours creuser vers le bas :)
 item.entwiner Entrelaceur
 item.entwiner.desc Entrelace magiquement un déclencheur à une destination.
 item.heart_beet Batte-cœur
-item.heart_beet.desc Augmente les PV maximum d'un cœur !
+item.heart_beet.desc Augmente votre jauge de santé d'un cœur !
 item.iron_chest Coffre en fer
 item.gold_chest Coffre en or
-item.dungeon_bricks Briques du donjon forestier
-item.dungeon_grate Grille du donjon forestier
+item.dungeon_bricks Briques de donjon forestier
+item.dungeon_grate Grille de donjon forestier
 item.dungeon_lamp Lanterne de donjon
 item.dungeon_lamp_blue Lanterne de donjon bleue
 item.dungeon_pressure_plate Plaque de pression de donjon
@@ -157,12 +158,12 @@ item.splitter Répartiteur
 item.splitter.desc Répartit un signal entre les blocs adjacents.
 item.pulser Impulseur
 item.pulser.desc Étend une impulsion d'entrelacement.
-item.dart_trap Piège de fléchettes
+item.dart_trap Piège lance-fléchettes
 item.dart_trap.desc Tire des fléchettes empoisonnées.
 
-item.thorn_blade Lame d'épines
+item.thorn_blade Lame épineuse
 item.regen_charm Pierre de régénération
-item.regen_charm.desc Restaure 1 PV toutes les 4 secondes.
+item.regen_charm.desc Restaure ¼ de cœur toutes les 4 secondes.
 item.jet_boots Bottes à réaction
 item.jet_boots.desc Sautez en l'air pour les enclencher, possèdent 1 seconde de carburant.
 item.spring_boots Bottes à ressorts
@@ -185,21 +186,21 @@ item.maple_planks Planches d'érable
 item.pine_planks Planches de pin
 item.framed_glass Verre grillagé
 item.red_brick Brique rouge
-item.lamp_cyan Lumière cyan
-item.lamp_magenta Lumière magenta
-item.lamp_yellow Lumière jaune
+item.lamp_cyan Lampe cyan
+item.lamp_magenta Lampe magenta
+item.lamp_yellow Lampe jaune
 item.copper_bars Barreaux en cuivre
 item.iron_bars Barreaux en fer
-item.silver_bars Barreaux en acier
+item.silver_bars Barreaux en argent
 item.gold_bars Barreaux en or
 item.concrete Béton
 item.concrete.desc Permet de se déplacer 1,2 fois plus vite.
 item.asphalt Asphalte
 item.asphalt.desc Permet de se déplacer 1,2 fois plus vite.
-item.thick_birch_log Bûche épaisse de bouleau
-item.thick_maple_log Bûche épaisse d'érable
-item.thick_oak_log Bûche épaisse de chêne
-item.thick_pine_log Bûche épaisse de pin
+item.thick_birch_log Tronc de bouleau
+item.thick_maple_log Tronc d'érable
+item.thick_oak_log Tronc de chêne
+item.thick_pine_log Tronc de pin
 item.trampoline Trampoline
 item.trampoline.desc Vous permet de rebondir très haut.
 item.launch_pad Rampe de lancement
@@ -222,18 +223,18 @@ item.cloth_light_pink Tissu rose clair
 item.cloth_brown Tissu marron
 
 item.weak_health_potion Petite potion de soin
-item.weak_health_potion.desc Restaure 10 PV.
+item.weak_health_potion.desc Restaure 2½ cœurs.
 item.poison_potion Potion de poison
 item.poison_potion.desc La boire n'est pas recommandé !
 item.speed_potion Potion de rapidité
 item.regen_potion Potion de régénération
-item.regen_potion.desc Redonne lentement des cœurs pendant 5 minutes.
+item.regen_potion.desc Restaure lentement des cœurs pendant 5 minutes.
 item.armour_potion Potion de blindage
 item.armour_potion.desc Augmente votre défense de 4 points pendant 5 minutes.
 item.respawn_potion Potion de retour
 item.respawn_potion.desc Potion de retour
 item.flight_potion Potion de vol
-item.flight_potion Vous permet de faire un court boost de fusée pendant 1 minute.
+item.flight_potion.desc Permet de vous propulser pendant 1 minute.
 item.cure_cube Cube de guérison
 item.cure_cube.desc L'équiper vous immunise contre le poison.
 item.cotton_plant Coton
@@ -243,11 +244,11 @@ item.decoration_station.desc Utilisé pour fabriquer des blocs décoratifs.
 item.dungeon_spawner Générateur de donjon
 item.copper_bow Arc en cuivre
 item.iron_bow Arc en fer
-item.silver_bow Arc en acier
+item.silver_bow Arc en argent
 item.gold_bow Arc en or
 item.copper_crossbow Arbalète en cuivre
 item.iron_crossbow Arbalète en fer
-item.silver_crossbow Arbalète en acier
+item.silver_crossbow Arbalète en argent
 item.gold_crossbow Arbalète en or
 item.reinforced_arrow Flèche renforcée
 item.flaming_arrow Flèche enflammée
@@ -262,9 +263,9 @@ item.squeaky_toy Pouêt-pouêt
 item.whoopee_cushion Coussin péteur
 item.air_horn Klaxon
 item.glow_worms Vers luisants
-item.heart_beet_block Batte-cœur (Bloc)
+item.heart_beet_block Bloc de batte-cœur
 item.sandstone_brick_small Petites briques de grès
-item.toy_crate Caisse de jouets
+item.toy_crate Caisse à jouets
 item.sprinkler Arroseur
 item.soil Sol aride
 item.wet_soil Sol humide
@@ -285,7 +286,7 @@ item.bomb_berry Baie-bombe
 item.bomb_berry.desc Attention : Ne la mangez pas chez vous.
 item.ominous_deer_skull Crâne de cerf menaçant
 item.oak_leaves Feuilles de chêne
-item.placed_glow_bean Haricot luisant (Bloc)
+item.placed_glow_bean Bloc d'haricot luisant
 item.weapon_crate Caisse d'armes
 item.forest_chest Coffre forestier
 item.tomato_seed Graines de tomate
@@ -313,7 +314,7 @@ item.forest_blessing.desc Accorde 2 secondes d'endurance en plus.
 item.minecart Wagonnet
 item.minecart.desc Poser sur un rail pour rouler.
 item.underground_bush Buisson des florabysses
-item.undergrowth_rock Pierre des florabysses
+item.undergrowth_rock Roche des florabysses
 item.forest_flower Fleur forestière
 item.lava_lily Nénuphar de lave
 item.bubble_glass Bulle de verre
@@ -385,7 +386,7 @@ item.cobalt_ore Minerai de cobalt
 item.amethyst_ore Améthyste
 item.sapphire_ore Saphir
 item.diamond_ore Diamant
-item.cobalt_plated_stone Pierre plaquée de cobalt
+item.cobalt_plated_stone Roche plaquée de cobalt
 item.alpha_shop Magasin alpha
 item.alpha_shop.desc (Sera supprimé quand les PNJs seront ajoutés)
 item.white_torch Torche blanche
@@ -393,7 +394,7 @@ item.ice_crate Caisse de glace
 item.ice_chest Coffre de glace
 item.table Table
 item.chair Chaise
-item.basic_lamp Lampe
+item.basic_lamp Lampe de chevet
 item.snow_dungeon_bricks Briques de donjon enneigé
 item.snow_dungeon_lamp Lanterne de donjon enneigé
 item.pressure_plate_small Petite plaque de pression
@@ -554,7 +555,7 @@ keybind.favourite_item Mettre en favori
 
 
 ammo.arrow Flèche
-ammo.rock Caillou
+ammo.rock Pierre
 ammo.bullet Balle
 ammo.snowball Boule de neige
 
@@ -579,7 +580,7 @@ effect.desc.slow Vous bougez plus lentement.
 effect.anchored Ancré
 effect.desc.anchored Vous êtes ancré sur place.
 effect.frozen Gelé
-effect.desc.frozen Vous êtes gelés et vous ne pouvez rien faire !
+effect.desc.frozen Vous êtes gelé et vous ne pouvez rien faire !
 effect.watched Observé
 effect.desc.watched ...
 effect.flight Vol
@@ -644,7 +645,7 @@ colour.black Noir
 colour.red Rouge
 colour.orange Orange
 colour.yellow Jaune
-colour.lime Vert clair
+colour.lime Vert citron
 colour.green Vert
 colour.turqoise Turquoise
 colour.blue Bleu

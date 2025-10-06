@@ -250,7 +250,7 @@ item.rock_melon Melon rocailleux
 item.watermelon Pastèque
 item.brick Brique
 item.brick.desc Pour jeter sur ce que vous n'aimez pas.
-item.throwable_torch Torche jetable
+item.throwable_torch Torche collante
 item.throwable_torch.desc Jetez-la pour éclairer les cavernes.
 item.squeaky_toy Pouêt-pouêt
 item.whoopee_cushion Coussin péteur

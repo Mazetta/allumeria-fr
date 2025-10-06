@@ -13,12 +13,10 @@ item.grass Herbe
 item.planks Planches
 item.water Eau (ancienne)
 item.sand Sable
-item.lamp_warm Lampe chaude
 item.lamp_white Lampe blanche
 item.lamp_blue Lampe bleue
 item.lava Lave (ancienne)
-item.blockMetaDataTest Bloc de test des métadonnées
-item.log Bûche
+item.log Bûche de chêne
 item.leaves Feuilles
 item.grass_tall Hautes herbes
 item.workbench Établi
@@ -82,8 +80,6 @@ item.birch_log Bûche de bouleau
 item.maple_log Bûche d'érable
 item.maple_leaves Feuilles d'érable
 item.blueberry_bush Myrtillier
-item.light_sponge Éponge à lumière
-item.light_sponge.desc Ne fonctionne pas pour l'instant. ):
 item.door Porte
 
 item.copper_helmet Casque en cuivre
@@ -107,10 +103,6 @@ item.dandelion Pissenlit
 item.cobblestone Pierres
 item.potion_station Atelier d'alchimie
 item.cooking_station Atelier de cuisine
-item.stair_test Escalier de test
-item.slab_test Dalle de test
-item.fence_test Barrière de test
-item.branch_test Branche de test
 item.ladder Échelle
 item.dynamite_block Bloc de dynamite
 item.dynamite_block.desc Aimeriez-vous exploser !?
@@ -258,7 +250,8 @@ item.rock_melon Melon rocailleux
 item.watermelon Pastèque
 item.brick Brique
 item.brick.desc Pour jeter sur ce que vous n'aimez pas.
-item.throwable_torch Torche jetable
+item.throwable_torch Torche collante
+item.throwable_torch.desc Jetez-la pour éclairer les cavernes.
 item.squeaky_toy Pouêt-pouêt
 item.whoopee_cushion Coussin péteur
 item.air_horn Klaxon
@@ -429,6 +422,9 @@ item.big_snowball Grosse boule de neige
 item.big_snowball.desc Je voudrais un bonhomme de neige...
 item.snow_boss_base Base du boss des neiges
 item.evil_tophat Haut-de-forme maléfique
+item.evil_tophat.desc Pourrait donner la vie.
+item.blank_block Bloc vierge
+item.grid_block Bloc quadrillé
 
 item_tag.can_place Posable
 item_tag.can_consume Consommable
@@ -474,6 +470,15 @@ settings.allow_godmode Invincibilité
 settings.mob_spawning Apparition des monstres
 settings.current_language Langue actuelle
 settings.language_info Redémarrez votre jeu pour appliquer la langue sélectionnée.
+settings.cave_culling Élimination des cavernes
+settings.header_basic Paramètres de base
+settings.vsync Synchronisation verticale
+settings.view_bobbing_intensity Intensité mouv. de tête
+settings.header_user_interface Interface utilisateur
+settings.header_advanced Paramètres avancés
+settings.pixel_scale Échelle des pixels
+settings.dither_shader Effet de tramage
+settings.invert_mouse Inverser la souris
 
 settings_category.video Vidéo
 settings_category.audio Audio
@@ -558,7 +563,7 @@ ammo.rock Pierre
 ammo.bullet Balle
 ammo.snowball Boule de neige
 
-effect.poison Poison
+effect.poison Empoisonné
 effect.desc.poison Inflige des dégâts au fil du temps.
 effect.regen Régénération
 effect.desc.regen Vous guérissez lentement au fil du temps.
@@ -570,7 +575,7 @@ effect.fire En feu
 effect.desc.fire VOUS ÊTES EN FEU !!
 effect.healcooldown Soigné récemment
 effect.desc.healcooldown Vous devez attendre un moment avant de pouvoir guérir à nouveau.
-effect.freezing Froid
+effect.freezing Frigorifié
 effect.desc.freezing Vous subissez des dégâts à cause du froid.
 effect.fast Rapide
 effect.desc.fast Vous pouvez vous déplacer plus rapidement.
@@ -635,6 +640,7 @@ loading.tip21 Appuyez sur «F11» pour activer le mode plein écran.
 loading.tip22 Jouer au basket durant un combat de boss peut être bénéfique.
 loading.tip23 Les batte-cœurs peuvent être utilisées pour augmenter votre vie maximale. 
 loading.tip24 Les flèches explosives sont dangereuses lors d'un combat rapproché.
+loading.tip25 Les cultures ne pousseront que si vous les arrosez.
 
 colour.clear Effacer
 colour.white Blanc

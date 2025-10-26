@@ -426,6 +426,37 @@ item.evil_tophat.desc Pourrait donner la vie.
 item.blank_block Bloc vierge
 item.grid_block Bloc quadrillé
 
+item.carving_knife Couteau à trancher
+item.carving_knife.desc Sert à découper les citrouilles.
+item.spawn_fuzzy Invocation de peluchon
+item.spawn_fuzzy_green Invocation de peluchon forestier
+item.spawn_fuzzy_ice Invocation de peluchon des glaces
+item.spawn_hog Invocation de sanglier
+item.spawn_skeleton Invocation de squelette
+item.spawn_wizard Invocation de sorcier
+item.spawn_wizard_ice Invocation de sorcier des glaces
+item.spawn_mushroomer Invocation de choupignon
+item.spawn_nightflyer Invocation d'avialien nocture
+item.spawn_snowman Invocation de bonhomme de neige
+item.spawn_stone_golem Invocation de golem de pierre
+item.spawn_yeti Invocation de yéti
+item.spawn_zombie Invocation de zombie
+item.spawn_pukeko Invocation de pukeko
+item.poo_gem Coprolithe
+item.lush_grass Herbe luxuriante
+item.dry_grass Herbe automnale
+item.grass_tall_autumn Hautes herbes automnales
+item.grass_tall_lush Hautes herbes luxuriantes
+item.terracotta_tiles Tuiles de terre cuite
+item.ritual_torch Torche rituelle
+item.spawner_block Invocateur de monstre
+item.sign Pancarte
+item.glass_sign Pancarte de verre
+item.screen_sign Écran d'affichage
+item.invisible_sign Pancarte invisible
+item.carved_pumpkin Citrouille
+item.pumpkin_seed Graines de citrouille
+
 item_tag.can_place Posable
 item_tag.can_consume Consommable
 item_tag.axe_power Hache
@@ -479,7 +510,17 @@ settings.header_advanced Paramètres avancés
 settings.pixel_scale Échelle des pixels
 settings.dither_shader Effet de tramage
 settings.invert_mouse Inverser la souris
+settings.leaf_sway Mouvement des feuilles
+settings.dynamic_light Lumière dynamique
+settings.disable_launch_message Désactiver message d'accueil
+settings.show_day_count Compteur de jours
+settings.infinite_stamina Endurance illimitée
+settings.edit_adventure_blocks Modifier blocs d'aventure
+settings.disable_mobs Désactiver les monstres
+settings.header_controls Contrôles
+settings.header_keybinds Assignation des touches
 
+settings_category.camera Caméra
 settings_category.video Vidéo
 settings_category.audio Audio
 settings_category.controls Contrôles

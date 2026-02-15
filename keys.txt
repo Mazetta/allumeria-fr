@@ -457,6 +457,79 @@ item.invisible_sign Pancarte invisible
 item.carved_pumpkin Citrouille
 item.pumpkin_seed Graines de citrouille
 
+item.basic_rod Canne à pêche basique
+item.basic_rod.desc Utilisez-la pour pêcher !
+item.sturdy_rod Canne à pêche solide 
+item.sturdy_rod.desc Pour remonter les poissons plus coriaces.
+item.obsidian_rod Canne à pêche en obsidienne
+item.obsidian_rod.desc Les poissons me craignent.
+item.water_walking_potion Potion de marche sur l'eau
+item.water_walking_potion.desc Permet de marcher sur la surface de l'eau.
+item.crate_potion Potion de caisse
+item.crate_potion.desc Augmente les chances de remonter une caisse en pêchant.
+item.fish_fillet Filet de poisson
+item.gormet_fish_fillet Filet de poisson gastronomique
+item.gormet_fish_fillet.desc Délicieux !
+item.worm Ver
+item.worm.desc Un appât pour les poissons rares.
+item.bug_bait Insecte appât
+item.bug_bait.desc Un appât pour les poissons rares.
+item.rage_bait Appât de rage
+item.rage_bait.desc Attire les poissons rares mais les rend plus énervés.
+item.magnetic_bait Appât magnétique
+item.magnetic_bait.desc Augmente les chances de remonter une caisse en pêchant.
+item.fish_catfish Poisson-chat
+item.fish_walleye Doré jaune
+item.fish_carp Carpe
+item.fish_tuna Thon
+item.fish_salmon Saumon
+item.fish_murray_cod Morue de Murray
+item.fish_herring Hareng
+item.fish_minnow Méné
+item.fish_lanternfish Poisson lanterne
+item.fish_crystalfin Poisson cristallin
+item.fish_fangtooth Poisson-ogre
+item.fish_blobfish Blobfish
+item.fish_nautilus Nautile
+item.fish_smoulderfish Poisson-braise
+item.fish_obsidieel Obsidianguille
+item.fish_stonefish Poisson-roc
+item.fish_rainbow_trout Truite arc-en-ciel
+item.packed_dirt Terre battue
+item.seaweed Algues
+item.lilypad Nénuphar
+item.elevator Ascenseur
+item.elevator.desc Sautez pour monter, accroupissez-vous pour descendre.
+
+item.logic_wire Câble
+item.logic_gate Porte logique
+item.logic_repeater Répéteur
+item.logic_not Porte NON
+item.logic_and Porte ET
+item.logic_xor Porte OU-exclusif
+item.logic_toggle Commutateur
+item.logic_memory Mémoire
+item.logic_pixel Pixel
+item.painting_wreath Peinture (Couronne)
+
+item.forest_hammer Marteau forestier
+item.forest_hammer.desc Peut changer la forme des blocs très solides.
+item.door_locker Verrou de porte
+item.door_locker.desc Permet de verrouiller les portes
+item.forest_key Clé forestière
+item.forest_key.desc Déverrouille les portes forestières
+item.iron_key Clé en fer
+item.iron_key.desc Déverrouille les portes ordinaires
+item.jelly_spoon Cuillère à gelée
+item.jelly_spoon.desc Permet de traverser la gelée forestière.
+item.spoon_fragment Fragment de cuillère
+item.spoon_fragment.desc Combinez-en pour créer un objet utile.
+item.dungeon_bricks_unstable Briques de donjon forestier instables
+item.dungeon_bricks_unstable.desc Se cassent sous votre poids.
+item.forest_jelly Gelée forestière
+item.forest_jelly.desc Parfois solide, parfois pas.
+item.bone_club Gourdin en os
+
 item_tag.can_place Posable
 item_tag.can_consume Consommable
 item_tag.axe_power Hache
@@ -473,6 +546,7 @@ item_tag.ranged_damage Distance
 item_tag.trinket Ornement
 item_tag.can_block Contre
 item_tag.knockback Recul
+item_tag.demo_locked Verrouillé dans la démo
 
 settings.field_of_view Champ de vision
 settings.max_fps FPS max.
@@ -519,6 +593,11 @@ settings.edit_adventure_blocks Modifier blocs d'aventure
 settings.disable_mobs Désactiver les monstres
 settings.header_controls Contrôles
 settings.header_keybinds Assignation des touches
+settings.slab_placement_mode Placement des dalles
+settings.reset_shape_on_swap Réinit. forme au changement de bloc
+settings.world_settings Permissions du monde
+settings.player_settings Permission des joueurs
+settings.button_reset_keybinds Réinitialiser les touches
 
 settings_category.camera Caméra
 settings_category.video Vidéo
@@ -528,6 +607,15 @@ settings_category.misc Divers
 settings_category.keybinds Assignation des touches
 settings_category.cheats Triche
 settings_category.language Langue
+
+permission.allow_noclip Autoriser le noclip
+permission.allow_infinite_item Objets infinis
+permission.allow_creative_menu Menu créatif
+permission.allow_godmode Invincibilité
+permission.instant_break Cassage de blocs instantané
+permission.infinite_stamina Endurance illimitée
+permission.edit_adventure_blocks Modifier les blocs d'aventure
+permission.enable_pvp Activer le PvP
 
 control_hint.open_inventory Ouvrir l'inventaire
 control_hint.close_inventory Fermer
@@ -597,7 +685,8 @@ keybind.pick_block Prendre le bloc
 keybind.scroll_up Défiler haut
 keybind.scroll_down Défiler bas
 keybind.favourite_item Mettre en favori
-
+keybind.fish_left Remonter le poisson à gauche
+keybind.fish_right Remonter le poisson à droite
 
 ammo.arrow Flèche
 ammo.rock Pierre
@@ -644,7 +733,10 @@ effect.desc.small_meal Vous avez pris un petit repas, vos statistiques augmenten
 effect.webbed Entravé
 effect.desc.webbed Vous êtes pris dans une toile d'araignée.
 
-
+effect.water_walking Marche sur l'eau
+effect.desc.water_walking Vous pouvez marcher à la surface de l'eau.
+effect.crate_potion Potion de caisse
+effect.desc.crate_potion Plus de chance de remonter une caisse en pêchant.
 
 effect.fast_mining Minage rapide
 effect.desc.fast_mining Augmente la vitesse de minage.

@@ -1,5 +1,5 @@
 ## Allumeria fr-FR
-Cette repo est dédiée à la traduction de Allumeria en Français. (version Alpha 0.9.5)
+Cette repo est dédiée à la traduction de Allumeria en Français. (version Demo 0.13.5)
 	
 ## Étapes
 Pour appliquer ces traductions au jeu, vous devrez effectuer ces étapes dans l'ordre :

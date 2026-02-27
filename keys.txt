@@ -4,7 +4,6 @@ item.copper_axe Hache en cuivre
 item.copper_ingot Lingot de cuivre
 item.iron_ingot Lingot de fer
 item.health_potion Potion de soin
-item.health_potion.desc Restaure 5 cœurs.
 item.empty Vide
 item.stone Roche
 item.unknown Inconnu
@@ -72,7 +71,6 @@ item.lamp_red Lampe rouge
 item.lamp_green Lampe verte
 item.flint_hammer Marteau
 item.flint_hammer.desc Permet de changer la forme des blocs.
-item.bagel Bagel
 item.everything_bagel Bagel de l'infini
 item.everything_bagel.desc Un bagel avec une infinité de saveurs.
 item.blueberry Myrtille
@@ -81,12 +79,10 @@ item.maple_log Bûche d'érable
 item.maple_leaves Feuilles d'érable
 item.blueberry_bush Myrtillier
 item.door Porte
-
 item.copper_helmet Casque en cuivre
 item.iron_helmet Casque en fer
 item.silver_helmet Casque en argent
 item.gold_helmet Casque en or
-
 item.copper_chestplate Plastron en cuivre
 item.iron_chestplate Plastron en fer
 item.silver_chestplate Plastron en argent
@@ -95,10 +91,8 @@ item.copper_greaves Jambières en cuivre
 item.iron_greaves Jambières en fer
 item.silver_greaves Jambières en argent
 item.gold_greaves Jambières en or
-item.dynamite Dynamite
 item.dynamite.desc Génial pour jouer à la balle.
 item.daffodil Jonquille
-item.rose Rose
 item.dandelion Pissenlit
 item.cobblestone Pierres
 item.potion_station Atelier d'alchimie
@@ -111,7 +105,6 @@ item.wood_bow Arc en bois
 item.slingshot Lance-pierres
 item.arrow Flèche
 item.rock Caillou
-item.shuriken Shuriken
 item.dart Fléchette
 item.wand Baguette magique
 item.wand.desc Sélectionne deux points lors d'une commande.
@@ -120,10 +113,8 @@ item.grass_tall_snowy Herbes enneigées
 item.grass_tall_dry Herbes sèches
 item.dead_bush Buisson mort
 item.desert_bush Buisson du désert
-item.agave Agave
 item.cactus_flower Fleur de cactus
 item.cactus_small Petit cactus
-item.cactus Cactus
 item.maple_sapling Samare d'érable
 item.oak_sapling Gland de chêne
 item.birch_sapling Chaton de bouleau
@@ -152,7 +143,6 @@ item.pulser Impulseur
 item.pulser.desc Étend une impulsion d'entrelacement.
 item.dart_trap Piège lance-fléchettes
 item.dart_trap.desc Tire des fléchettes empoisonnées.
-
 item.thorn_blade Lame épineuse
 item.regen_charm Pierre de régénération
 item.regen_charm.desc Restaure ¼ de cœur toutes les 4 secondes.
@@ -164,7 +154,6 @@ item.paraglider Parapente
 item.paraglider.desc Permet de descendre lentement depuis très haut.
 item.jumping_bean Haricot sauteur
 item.jumping_bean.desc Augmente les dégâts de mêlée de 20 %, mais il y a un hic.
-item.sneakers Sneakers
 item.sneakers.desc Porter ces sneakers vous permet de vous accroupir.
 item.gecko_gloves Gants de gecko
 item.gecko_gloves.desc Porter ces gants vous permet de grimper aux murs.
@@ -193,7 +182,6 @@ item.thick_birch_log Tronc de bouleau
 item.thick_maple_log Tronc d'érable
 item.thick_oak_log Tronc de chêne
 item.thick_pine_log Tronc de pin
-item.trampoline Trampoline
 item.trampoline.desc Vous permet de rebondir très haut.
 item.launch_pad Rampe de lancement
 item.launch_pad.desc Vous propulse dans les airs.
@@ -213,7 +201,6 @@ item.cloth_purple Tissu violet
 item.cloth_pink Tissu rose
 item.cloth_light_pink Tissu rose clair
 item.cloth_brown Tissu marron
-
 item.weak_health_potion Petite potion de soin
 item.weak_health_potion.desc Restaure 2½ cœurs.
 item.poison_potion Potion de poison
@@ -267,7 +254,6 @@ item.bomb_berry_seed Graines de baie-bombe
 item.rock_melon_seed Graines de melon rocailleux
 item.watermelon_seed Graines de pastèque
 item.frying_pan Poêle à frire
-item.boomerang Boomerang
 item.throwable_glow_bean Haricot luisant
 item.watering_can Arrosoir
 item.watering_can.desc Toujours magiquement plein.
@@ -315,7 +301,6 @@ item.undergrowth_crate Caisse des florabysses
 item.spike_trap Piège à pointes
 item.dynamite_trap Piège à dynamite
 item.basket_hoop Panier de basket
-item.rail Rail
 item.painting_child Objet des métadonnées de peinture
 item.painting_melon Peinture (Melon)
 item.painting_melon.desc Une nature morte... ou un autoportrait.
@@ -333,12 +318,10 @@ item.forest_helmet Casque forestier
 item.forest_chestplate Plastron forestier
 item.forest_greaves Jambières forestières
 item.skull_fragment Fragment de crâne
-
 item.cobalt_pickaxe Pioche en cobalt
 item.cobalt_sword Épée en cobalt
 item.arctic_blade Lame arctique
 item.big_sword Grande épée
-item.baguette Baguette
 item.frosted_boomerang Boomerang glacé
 item.cobalt_spear Lance en cobalt
 item.cobalt_axe Hache en cobalt
@@ -358,7 +341,6 @@ item.allumerium_coin Jeton en allumérium
 item.mining_potion Potion de minage
 item.mint Menthe
 item.red_meat Viande rouge
-item.steak Steak
 item.red_mushroom_item Champignon rouge
 item.glowing_mushroom_item Champignon luisant
 item.magnet Aimant
@@ -385,7 +367,6 @@ item.alpha_shop.desc (Sera supprimé quand les PNJs seront ajoutés.)
 item.white_torch Torche blanche
 item.ice_crate Caisse de glace
 item.ice_chest Coffre de glace
-item.table Table
 item.chair Chaise
 item.basic_lamp Lampe de chevet
 item.snow_dungeon_bricks Briques de donjon enneigé
@@ -425,7 +406,6 @@ item.evil_tophat Haut-de-forme maléfique
 item.evil_tophat.desc Pourrait donner la vie.
 item.blank_block Bloc vierge
 item.grid_block Bloc quadrillé
-
 item.carving_knife Couteau à trancher
 item.carving_knife.desc Sert à découper les citrouilles.
 item.spawn_fuzzy Invocation de peluchon
@@ -456,7 +436,6 @@ item.screen_sign Écran d'affichage
 item.invisible_sign Pancarte invisible
 item.carved_pumpkin Citrouille
 item.pumpkin_seed Graines de citrouille
-
 item.basic_rod Canne à pêche basique
 item.basic_rod.desc Utilisez-la pour pêcher !
 item.sturdy_rod Canne à pêche solide 
@@ -489,7 +468,6 @@ item.fish_minnow Méné
 item.fish_lanternfish Poisson lanterne
 item.fish_crystalfin Poisson cristallin
 item.fish_fangtooth Poisson-ogre
-item.fish_blobfish Blobfish
 item.fish_nautilus Nautile
 item.fish_smoulderfish Poisson-braise
 item.fish_obsidieel Obsidianguille
@@ -500,7 +478,6 @@ item.seaweed Algues
 item.lilypad Nénuphar
 item.elevator Ascenseur
 item.elevator.desc Sautez pour monter, accroupissez-vous pour descendre.
-
 item.logic_wire Câble
 item.logic_gate Porte logique
 item.logic_repeater Répéteur
@@ -511,7 +488,6 @@ item.logic_toggle Commutateur
 item.logic_memory Mémoire
 item.logic_pixel Pixel
 item.painting_wreath Peinture (Couronne)
-
 item.forest_hammer Marteau forestier
 item.forest_hammer.desc Peut changer la forme des blocs très solides.
 item.door_locker Verrou de porte
@@ -529,7 +505,9 @@ item.dungeon_bricks_unstable.desc Se cassent sous votre poids.
 item.forest_jelly Gelée forestière
 item.forest_jelly.desc Parfois solide, parfois pas.
 item.bone_club Gourdin en os
-
+item.boimp_potion Potion de boimp
+item.hanging_vines Vignes
+item.hanging_flowers Fleurs retombantes
 item_tag.can_place Posable
 item_tag.can_consume Consommable
 item_tag.axe_power Hache
@@ -547,7 +525,6 @@ item_tag.trinket Ornement
 item_tag.can_block Contre
 item_tag.knockback Recul
 item_tag.demo_locked Verrouillé dans la démo
-
 settings.field_of_view Champ de vision
 settings.max_fps FPS max.
 settings.render_distance Distance de rendu
@@ -598,16 +575,13 @@ settings.reset_shape_on_swap Réinit. forme au changement de bloc
 settings.world_settings Permissions du monde
 settings.player_settings Permission des joueurs
 settings.button_reset_keybinds Réinitialiser les touches
-
 settings_category.camera Caméra
 settings_category.video Vidéo
-settings_category.audio Audio
 settings_category.controls Contrôles
 settings_category.misc Divers
 settings_category.keybinds Assignation des touches
 settings_category.cheats Triche
 settings_category.language Langue
-
 permission.allow_noclip Autoriser le noclip
 permission.allow_infinite_item Objets infinis
 permission.allow_creative_menu Menu créatif
@@ -616,7 +590,6 @@ permission.instant_break Cassage de blocs instantané
 permission.infinite_stamina Endurance illimitée
 permission.edit_adventure_blocks Modifier les blocs d'aventure
 permission.enable_pvp Activer le PvP
-
 control_hint.open_inventory Ouvrir l'inventaire
 control_hint.close_inventory Fermer
 control_hint.close_menu Fermer
@@ -634,7 +607,6 @@ control_hint.unequip Équiper
 control_hint.equip Déséquiper
 control_hint.change_shape Changer de forme
 control_hint.show_recipes Recettes
-
 keybind.move_forward Avancer
 keybind.move_backward Reculer
 keybind.move_left Gauche
@@ -642,7 +614,6 @@ keybind.move_right Droite
 keybind.fly_down Voler
 keybind.fly_up Redescendre
 keybind.jump Sauter
-keybind.noclip Noclip
 keybind.place Poser / Utiliser
 keybind.punch Frapper
 keybind.place_modifier Placer une amélioration
@@ -650,7 +621,6 @@ keybind.open_inventory Ouvrir l'inventaire
 keybind.toggle_creative_menu Menu créatif
 keybind.drop_item Jeter l'objet
 keybind.drop_modifier Jeter l'amélioration
-keybind.pause Pause
 keybind.ui_confirm Confirmer (interface)
 keybind.ui_secondary Action secondaire (interface)
 keybind.toggle_debug Écran de débogage
@@ -687,12 +657,10 @@ keybind.scroll_down Défiler bas
 keybind.favourite_item Mettre en favori
 keybind.fish_left Remonter le poisson à gauche
 keybind.fish_right Remonter le poisson à droite
-
 ammo.arrow Flèche
 ammo.rock Pierre
 ammo.bullet Balle
 ammo.snowball Boule de neige
-
 effect.poison Empoisonné
 effect.desc.poison Inflige des dégâts au fil du temps.
 effect.regen Régénération
@@ -716,14 +684,12 @@ effect.desc.anchored Vous êtes ancré sur place.
 effect.frozen Gelé
 effect.desc.frozen Vous êtes gelé et vous ne pouvez rien faire !
 effect.watched Observé
-effect.desc.watched ...
 effect.flight Vol
 effect.desc.flight Permet de courtes périodes de vol.
 effect.regen_potion Régénération (potion)
 effect.desc.regen_potion Vous régénérez votre santé lentement.
 effect.armoured Blindé
 effect.desc.armoured Votre défense a augmente de 4 points.
-
 effect.concussion Assommé
 effect.desc.concussion Aïe ! Vitesse de déplacement réduite.
 effect.snack En-cas léger
@@ -732,22 +698,18 @@ effect.small_meal Repas léger
 effect.desc.small_meal Vous avez pris un petit repas, vos statistiques augmentent légèrement.
 effect.webbed Entravé
 effect.desc.webbed Vous êtes pris dans une toile d'araignée.
-
 effect.water_walking Marche sur l'eau
 effect.desc.water_walking Vous pouvez marcher à la surface de l'eau.
 effect.crate_potion Potion de caisse
 effect.desc.crate_potion Plus de chance de remonter une caisse en pêchant.
-
 effect.fast_mining Minage rapide
 effect.desc.fast_mining Augmente la vitesse de minage.
-
 crafting_station.inventory À la main
 crafting_station.work_bench Établi
 crafting_station.furnace Fourneau
 crafting_station.anvil Enclume
 crafting_station.decorations Atelier de décoration
 crafting_station.potions Atelier d'alchimie
-
 loading.tip0 Les monstres n'apparaîtront que sur des blocs naturellement générés.
 loading.tip1 Appuyez sur «R» pour afficher les recettes d'un objet.
 loading.tip2 Maintenez «R» en tenant un bloc pour modifier sa forme.
@@ -774,18 +736,15 @@ loading.tip22 Jouer au basket durant un combat de boss peut être bénéfique.
 loading.tip23 Les batte-cœurs peuvent être utilisées pour augmenter votre vie maximale. 
 loading.tip24 Les flèches explosives sont dangereuses lors d'un combat rapproché.
 loading.tip25 Les cultures ne pousseront que si vous les arrosez.
-
 colour.clear Effacer
 colour.white Blanc
 colour.grey Gris clair
 colour.dark_grey Gris foncé
 colour.black Noir
 colour.red Rouge
-colour.orange Orange
 colour.yellow Jaune
 colour.lime Vert citron
 colour.green Vert
-colour.turqoise Turquoise
 colour.blue Bleu
 colour.dark_blue Bleu foncé
 colour.purple Violet

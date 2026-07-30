@@ -556,75 +556,75 @@ guide.block_shaping.name La forme des blocs
 guide.block_shaping.desc Vous pouvez changer la forme de tout bloc plein en utilisant le marteau, ou le menu de sélection de forme. Les contrôles.
 guide.block_painting.name Peinture
 guide.block_painting.desc Vous pouvez repeindre tous les blocs à l'aide d'un rouleau à peinture. La peinture blanche rend à la plupart des blocs leur couleur d'origine, mais ce n'est pas toujours le cas.
-guide.copper_ore.name Copper Ore
-guide.copper_ore.desc Copper ore is the first tier of material above flint. 
-guide.coal_ore.name Coal Deposit
-guide.coal_ore.desc You should consider finding coal quickly. Coal can be found exposed on the surface or in caves.
-guide.furnace.name Furnace
-guide.furnace.desc You will need a furnace to convert your ores into bars.
-guide.copper_ingot.name Copper
-guide.copper_ingot.desc Copper opens up a lot of new recipes, including armours, bows, and other tools.
+guide.copper_ore.name Minerai de cuivre
+guide.copper_ore.desc Le cuivre est le second échelon sur l'échelle des matériaux, au dessus du silex. 
+guide.coal_ore.name Dépôts de charbon
+guide.coal_ore.desc Vous devriez miner du charbon au plus vite. Le charbon se trouve en surface ou dans les souterrains.
+guide.furnace.name Fourneau
+guide.furnace.desc Vous aurez besoin d'un fourneau pour transformer les minerais en lingots.
+guide.copper_ingot.name Cuivre
+guide.copper_ingot.desc Le cuivre donne accès à des recettes supplémentaires, telles que celles des armures, des arcs, ou d'autres outils.
 guide.make_torch.name Torches
-guide.make_torch.desc Torches can be made with wood and coal. Make sure you get some quickly, as night time can be dark. They can also be found
-guide.iron_ingot.name Iron
-guide.iron_ingot.desc The tier above copper. 
-guide.silver_ingot.name Silver
-guide.silver_ingot.desc The tier above iron.
-guide.gold_ingot.name Gold
-guide.gold_ingot.desc The tier above silver.
-guide.heart_beet.name Heart Beet
-guide.heart_beet.desc This useful plant has a special effect when consumed.
+guide.make_torch.desc Les torches sont faites à partir de planches et de charbon. Fabriquez-en le plus vite possible, car les nuits sont très sombres.
+guide.iron_ingot.name Fer
+guide.iron_ingot.desc L'échelon au dessus du cuivre. 
+guide.silver_ingot.name Argent
+guide.silver_ingot.desc L'échelon au dessus du fer.
+guide.gold_ingot.name Or
+guide.gold_ingot.desc L'échelon au dessus de l'argent.
+guide.heart_beet.name Batte-cœur
+guide.heart_beet.desc Ce légume fort utile possède un effet très particulier lorsqu'il est consommé.
 guide.sneakers.name Sneakers
-guide.sneakers.desc This trinket allows you to sneak when equipped.
-guide.iron_crossbow.name Iron Crossbow
-guide.iron_crossbow.desc Crossbows allow you to shoot arrows automatically by holding down the fire button.
-guide.iron_bow.name Iron Bow
-guide.iron_bow.desc Bows are better for long range combat, and deal more damage the longer the bow is charged.
+guide.sneakers.desc Équiper cet ornement vous permet de vous accroupir.
+guide.iron_crossbow.name Arbalète en fer
+guide.iron_crossbow.desc Les arbalètes permettent de décocher des flèches en continu en maintenant la touche de tir.
+guide.iron_bow.name Arc en fer
+guide.iron_bow.desc Privilégiez les arcs pour le combat à distance. Plus vous chargez votre tir, plus celui-ci causera de dégâts.
 guide.shuriken.name Shuriken
-guide.shuriken.desc Shuriken are cheap and useful throwing stars and deal a decent amount of damage. They are abundant in crates underground.
-guide.potion_station.name Potion Station
-guide.potion_station.desc Use this to craft potions. Potions are very useful for providing buffs in battle.
-guide.silver_armour.name Silver Armour
-guide.silver_armour.desc Equip a piece of silver armour.
-guide.ominous_skull.name Ominous Skull
-guide.ominous_skull.desc This skull emits a dull glow. Prepare to face your fears.
-guide.forest_key.name Forest Key
-guide.forest_key.desc This is the key to a mysterious dungeon found in the forest. Look for a large tree stump.
-guide.spoon.name Jelly Spoon
-guide.spoon.desc This is a trinket, if you have it equipped you can phase through certain blocks.
-guide.forest_pickaxe.name Forest Pickaxe
-guide.forest_pickaxe.desc With this tool, you now have the ability to go deeper.
-guide.forest_blessing.name Forest Blessing
-guide.forest_blessing.desc This item gives you a one time boost to your stamina.
-guide.forest_flower.name Forest Flower
-guide.forest_flower.desc A useful material found in the undergrowth.
-guide.forest_ingot.name Forest Ingot
-guide.forest_ingot.desc An alloy of forest flowers and thorns.
-guide.farming_node.name Farming
-guide.farming_node.desc Setting up a farm to grow crops is a good idea. Crops are used for potions and also for utility.
-guide.watering_can.name The Manual Way
-guide.watering_can.desc You can water crops by hand with a watering can. Crops will stay watered for a while and will only grow when hydrated.
-guide.sprinkler.name The Automatic Way
-guide.sprinkler.desc Sprinklers can be used to water your crops automatically. Place them down and they will water anything in a 5x5 area around it.
-guide.wheat.name Wheat
-guide.wheat.desc Wheat is a common crop and is used as an ingredient for potions and bread.
-guide.arrowroot.name Arrowroot
-guide.arrowroot.desc Arrowroot is a rare crop you can only get via mutation. It's an alternative to arrows that you can grow instead of craft.
-guide.bomb_berry.name Bomb Berry
-guide.bomb_berry.desc Bomb berries are berries that explode when you throw them. They sometimes appear if you leave empty space in your farmland while growing other crops.
-guide.fishing_rod.name Fishing Rod
-guide.fishing_rod.desc Fishing can be used to get potion ingredients, and you also keep a catalogue of the fish you catch.
-guide.sprint_boots.name Add Sprinting Pls
-guide.sprint_boots.desc These boots allow you to sprint! You have a limited amount of stamina, which can be raised later on.
-guide.rose.name By Any Other Name
-guide.rose.desc Not only can you water crops, but watering other blocks, like grass, will cause other flowers and plants to grow, some of which are rare and exclusive to this mechanic.
-guide.to_the_snow.name To the Snow!
-guide.to_the_snow.desc It's time to continue your adventure in the snow biome. Explore and have fun!
-guide.ice_arrow.name Ice Arrow
-guide.ice_arrow.desc These arrows are stronger than normal, AND they deal freezing damage. BRR!
-guide.snowball.name Snowballs
-guide.snowball.desc Snowballs don't pack a lot of punch on their own, but they can be used as ammo for other weapons.
-guide.mint_crop.name Free Mint(s)!
+guide.shuriken.desc Ces armes de lancer sont faciles à fabriquer et peuvent être redoutables. On les trouve en abondance dans des caisses souterraines.
+guide.potion_station.name Atelier d'alchimie
+guide.potion_station.desc Utilisez-le pour concocter des potions. Leurs effets seront utiles au combat.
+guide.silver_armour.name Armure en argent
+guide.silver_armour.desc Équipez une pièce d'armure en argent.
+guide.ominous_skull.name Crâne menaçant
+guide.ominous_skull.desc Ce crâne émet une faible lueur. Préparez-vous à faire face à vos pires cauchemars.
+guide.forest_key.name Clé forestière
+guide.forest_key.desc La clé d'un donjon mystérieux au cœur de la forêt. Essayez de trouver un énorme tronc de chêne.
+guide.spoon.name Cuillère à gelée
+guide.spoon.desc Un ornement qui vous permet de traverser certains blocs lorsqu'il est équipé.
+guide.forest_pickaxe.name Pioche forestière
+guide.forest_pickaxe.desc Avec cet outil en main, vous pourrez creuser encore plus profondément.
+guide.forest_blessing.name Bénédiction de la forêt
+guide.forest_blessing.desc Cet objet booste votre endurance temporairement.
+guide.forest_flower.name Fleur forestière
+guide.forest_flower.desc Un matériau utile que l'on trouve dans les florabysses.
+guide.forest_ingot.name Lingot forestier
+guide.forest_ingot.desc Un alliage de fleurs forestières et d'épines.
+guide.farming_node.name Agriculture
+guide.farming_node.desc Construire une ferme pour y cultiver des plantes peut s'avérer fort utile. Les cultures peuvent servir à la concoction de potions.
+guide.watering_can.name Mode manuel
+guide.watering_can.desc Vous pouvez arroser vos cultures à la main grâce à un arrosoir pour les faire pousser. La terre restera irriguée pendant un moment.
+guide.sprinkler.name Mode automatique
+guide.sprinkler.desc Les arroseurs irrigueront vos cultures automatiquement dans un rayon de 5 blocs.
+guide.wheat.name Blé
+guide.wheat.desc Une variété commune de plante, qui sert à obtenir du pain, ou d'ingrédient d'alchimie.
+guide.arrowroot.name Marante
+guide.arrowroot.desc La marante est une plante rare obtenue par mutation. On peut l'utiliser comme une flèche.
+guide.bomb_berry.name Baie-bombe
+guide.bomb_berry.desc Les baies-bombes explosent lorsqu'on les lance. Elles peuvent pousser spontanément sur de la terre labourée libre lorsque vous cultivez d'autres plantes.
+guide.fishing_rod.name Canne à pêche
+guide.fishing_rod.desc Pêcher sert à obtenir des ingrédients d'alchimie, et vous permet de compléter votre catalogue de pêche.
+guide.sprint_boots.name "Ajoute le sprint stp"
+guide.sprint_boots.desc Ces bottes vous permettent de courir ! Votre endurance est limitée, mais il existe des moyens de l'augmenter.
+guide.rose.name Sous tout autre nom...
+guide.rose.desc L'arrosage ne profite pas qu'aux cultures. Arroser d'autres blocs, comme l'herbe, peut faire pousser des fleurs et plantes uniques.
+guide.to_the_snow.name Vers la neige !
+guide.to_the_snow.desc Il est temps d'explorer le biome enneigé pour continuer votre périple. Amusez-vous bien !
+guide.ice_arrow.name Flèche de glace
+guide.ice_arrow.desc Ces flèches causent plus de dégâts, et en plus, l'ennemi finit frigorifié. Brr !
+guide.snowball.name Boules de neiges
+guide.snowball.desc Elles ne causent pas beaucoup de dégâts par elles-mêmes, mais elles peuvent servir de projectiles par d'autres armes.
+guide.mint_crop.name Qui veut un bonbon à la menthe ?
 guide.mint_crop.desc Mint can be found in the snow biome, and is used as a potion ingredient.
 guide.frost_algae.name Frost Algae
 guide.frost_algae.desc Frost algae looks pretty, but it can also be used in potions.

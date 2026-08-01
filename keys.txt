@@ -12,16 +12,18 @@ item.dirt Terre
 item.grass Herbe
 item.planks Planches
 item.water Eau (ancienne)
+item.water.desc Bloc obsolète (Conservé pour des raisons de compatibilité)
 item.sand Sable
 item.lamp_white Lampe blanche
 item.lamp_blue Lampe bleue
 item.lava Lave (ancienne)
+item.lava.desc Bloc obsolète (Conservé pour des raisons de compatibilité)
 item.log Bûche de chêne
 item.leaves Feuilles
 item.grass_tall Hautes herbes
 item.workbench Établi
 item.workbench.desc Peut fabriquer des objets plus complexes.
-item.worldBorder Bordure
+item.worldBorder Bordure du monde
 item.worldBorder.desc Si vous avez pu obtenir ça, c'est soit que vous trichez, soit que mon jeu est cassé. ):
 item.copper_ore Minerai de cuivre
 item.copper_ore.desc Peut être fondu en lingots.
@@ -75,6 +77,8 @@ item.flint_hammer.desc Permet de changer la forme des blocs.
 item.bagel Bagel
 item.everything_bagel Bagel de l'infini
 item.everything_bagel.desc Un bagel avec une infinité de saveurs.
+item.nothing_bagel Bagel du néant
+item.nothing_bagel.desc Donne-moi un bagel sans rien.
 item.blueberry Myrtille
 item.birch_log Bûche de bouleau
 item.maple_log Bûche d'érable
@@ -529,6 +533,132 @@ item.dungeon_bricks_unstable.desc Se cassent sous votre poids.
 item.forest_jelly Gelée forestière
 item.forest_jelly.desc Parfois solide, parfois pas.
 item.bone_club Gourdin en os
+item.boimp_potion Potion de boimp
+item.hanging_vines Vignes
+item.hanging_flowers Fleurs retombantes
+item.myosotis Myosotis
+item.wallpaper_wood Bardage en bois
+item.wallpaper_stone Bardage en pierre
+item.pebbles Galets
+item.grassy_stone Pierre herbeuse
+item.wallpaperable_wood Base pour papier peint (Bois)
+item.wallpaperable_stone Base pour papier peint (Pierre)
+item.bed Lit
+
+item.geode Géode
+item.merchant_hat Chapeau de marchand
+item.merchant_backpack Sac à dos de marchand
+item.palm_log Bûche de palmier
+item.maple_bookshelf Bibliothèque en érable
+item.street_lamp Lampadaire
+item.npc_sign Pancarte de maison pour PNJ
+
+item.ice_pickaxe Pioche de glace
+item.ice_pickaxe.desc Peut miner le palladium
+item.palladium_pickaxe Pioche en palladium
+item.palladium_sword Épée en palladium
+item.cleaver Feuille de boucher
+item.nightmare_blade Lame cauchemardesque
+item.nightmare_blade.desc Cette épée est vraiment trop stylée.
+item.cursed_pickaxe Pioche maudite
+item.cursed_pickaxe.desc Ne minez pas avec !
+item.compact_disc Disque compact
+item.compact_disc.desc Une technologie ancienne.
+item.palladium_spear Lance en palladium
+item.palladium_axe Hache en palladium
+item.palladium_helmet Casque en palladium
+item.palladium_chestplate Plastron en palladium
+item.palladium_greaves Jambières en palladium
+item.palladium_bow Arc en palladium
+item.palladium_crossbow Arbalète en palladium
+item.coconut_cannon Canon à noix de coco
+item.coconut_splitter Double canon à noix de coco
+item.glass_cannon Canon à verre
+item.shuriken_launcher Lance-shuriken
+item.ice_arrow Flèche de glace
+item.ice_arrow.desc Frigorifie votre cible.
+item.shock_arrow Flèche électrifiée
+item.shock_arrow.desc Assomme votre cible.
+item.palladium_arrow Flèche en palladium
+item.coconut Noix de coco
+item.desert_shuriken Shuriken désertique
+item.snowball_shuriken Shuriken de neige
+item.cobalt_shuriken Shuriken en cobalt
+item.glass_shard Bris de verre
+item.palladium_ingot Lingot de palladium
+item.purple_fire_extinguisher Extincteur de flamme pourpre
+item.purple_fire_extinguisher Pour éteindre la flamme magique.
+item.purple_fire_lighter Briquet de flamme pourpre
+item.purple_fire_lighter Pour raviver la flamme magique.
+item.sand_dungeon_key Clé du donjon désertique
+item.sand_dungeon_key.desc Ouvre la porte du donjon désertique.
+item.desert_glider Parapente désertique
+item.desert_glider.desc Le rose vous rend plus rapide.
+item.frozen_heart Cœur de glace
+item.frozen_heart.desc Vous immunise contre le gel.
+item.paint_roller_pixel Rouleau de peinture (Palette pixel)
+item.paint_roller_greyscale Rouleau de peinture (Palette niveaux de gris)
+item.paint_roller_desert Rouleau de peinture (Palette désertique)
+item.spawn_mossy_stone_golem Invocation de golem moussu
+item.spawn_iceflyer Invocation d'avalien des glaces
+item.spawn_poison_bulb Invocation de bulbe vénéneux
+item.spawn_mummy Invocation de momie
+item.spawn_sand_ghost Invocation de fantôme sablonneux
+item.spawn_tumbleweed Invocation de virevoltant
+item.spawn_sand_skeleton Invocation de squelette sablonneux
+item.spawn_faceless_miner Invocation de mineur sans visage
+item.thorns Épines
+item.sand_key_part Fragment de clé désertique
+item.sand_key_part.desc Vont par 3.
+item.sakura_log Bûche de cerisier
+item.palm_leaves Feuilles de palmier
+item.sakura_leaves Feuilles de cerisier
+item.yellow_snow Neige jaune
+item.yellow_snow.desc Ne la mangez pas !
+item.thermal_vent Source hydrothermale
+item.thermal_vent.desc Suspicieusement chaude.
+item.bone_block Bloc d'os
+item.quicksand Sables mouvants
+item.quicksand.desc Vous avez un mauvais préssentiment...
+item.sandstone_grass Grès herbeux
+item.palm_sapling Pousse de palmier
+item.ice_cap Champignon de gel
+item.orange_fungi Champignon orange
+item.palladium_ore Minerai de palladium
+item.palm_planks Planches de palmier
+item.sakura_planks Planches de cerisier
+item.palladium_plated_stone Roche plaquée de palladium
+item.iron_anvil Enclume en fer
+item.sand_chest Coffre désertique
+item.sand_dungeon_bricks Briques de donjon désertique
+item.sand_dungeon_block Bloc de donjon désertique
+item.sand_dungeon_lock Verrou de donjon désertique
+item.sand_dungeon_summon Invocation de donjon désertique
+item.sand_dungeon_spawner Invocateur de donjon désertique
+item.sand_dungeon_grate Grille de donjon désertique
+item.sand_dungeon_torch Torche de donjon désertique
+item.sand_dungeon_bricks_unstable Briques instables de donjon désertique
+item.sand_dungeon_platform Plateforme de donjon désertique
+item.logic_entwine Entrelaceur logique
+item.structure_replace Remplacement de structure
+item.fluid.spring_water Eau de source
+item.evil_flower Fleur maléfique secrète
+item.evil_flower.desc Pourquoi vous l'avez faite pousser ?!?!
+item.lush_grass_seed Graines d'herbe luxuriante
+item.lush_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
+item.forest_grass_seed Graines d'herbe forestière
+item.forest_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
+item.dry_grass_seed Graines d'herbe sèche
+item.dry_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
+item.gravel Gravier
+item.gold_flower Fleur dorée
+item.gold_flower Une récompense pour votre dévouement pour la culture des fleurs.
+item.painting_sky Peinture (Ciel)
+item.painting_alpha Peinture (Alpha)
+item.painting_droplet Peinture (Goutelette)
+item.painting_ornate Peinture (Ornée)
+item.painting_parthenon Peinture (Parthénon)
+item.painting_horse Peinture (Cheval)
 
 guide.open_menu.name Le commencement
 guide.open_menu.desc Bienvenue dans le compendium ! Ce guide vous présentera de nouvelles choses à accomplir au fur et à mesure de votre progression. C'est facultatif, mais si vous êtes bloqués, n'hésitez pas à le consulter ! 
@@ -555,7 +685,7 @@ guide.make_chair.desc Les chaises sont une façon simple d'égayer une pièce.
 guide.block_shaping.name La forme des blocs
 guide.block_shaping.desc Vous pouvez changer la forme de tout bloc plein en utilisant le marteau, ou le menu de sélection de forme. Les contrôles.
 guide.block_painting.name Peinture
-guide.block_painting.desc Vous pouvez repeindre tous les blocs à l'aide d'un rouleau à peinture. La peinture blanche rend à la plupart des blocs leur couleur d'origine, mais ce n'est pas toujours le cas.
+guide.block_painting.desc Vous pouvez repeindre tous les blocs à l'aide d'un rouleau de peinture. La peinture blanche rend à la plupart des blocs leur couleur d'origine, mais ce n'est pas toujours le cas.
 guide.copper_ore.name Minerai de cuivre
 guide.copper_ore.desc Le cuivre est le second échelon sur l'échelle des matériaux, au dessus du silex. 
 guide.coal_ore.name Dépôts de charbon
@@ -601,7 +731,7 @@ guide.forest_flower.desc Un matériau utile que l'on trouve dans les florabysses
 guide.forest_ingot.name Lingot forestier
 guide.forest_ingot.desc Un alliage de fleurs forestières et d'épines.
 guide.farming_node.name Agriculture
-guide.farming_node.desc Construire une ferme pour y cultiver des plantes peut s'avérer fort utile. Les cultures peuvent servir à la concoction de potions.
+guide.farming_node.desc Construire une ferme pour y cultiver des plantes peut s'avérer fort utile. Les cultures peuvent servir comme ingrédients d'alchimie.
 guide.watering_can.name Mode manuel
 guide.watering_can.desc Vous pouvez arroser vos cultures à la main grâce à un arrosoir pour les faire pousser. La terre restera irriguée pendant un moment.
 guide.sprinkler.name Mode automatique
@@ -623,65 +753,62 @@ guide.to_the_snow.desc Il est temps d'explorer le biome enneigé pour continuer 
 guide.ice_arrow.name Flèche de glace
 guide.ice_arrow.desc Ces flèches causent plus de dégâts, et en plus, l'ennemi finit frigorifié. Brr !
 guide.snowball.name Boules de neiges
-guide.snowball.desc Elles ne causent pas beaucoup de dégâts par elles-mêmes, mais elles peuvent servir de projectiles par d'autres armes.
-guide.mint_crop.name Qui veut un bonbon à la menthe ?
-guide.mint_crop.desc Mint can be found in the snow biome, and is used as a potion ingredient.
-guide.frost_algae.name Frost Algae
-guide.frost_algae.desc Frost algae looks pretty, but it can also be used in potions.
-guide.cobalt_shuriken.name Cobalt Shuriken
-guide.cobalt_shuriken.desc A snowball with blades in it. How terrifying!
-guide.snow_cannon.name Snowball Cannon
-guide.snow_cannon.desc This cannon shoots snowballs with such force that they actually really hurt!
-guide.cobalt_ore.name Cobalt Ore
-guide.cobalt_ore.desc You won't be able to get much done without cobalt, so get mining!
-guide.ice_cap.name Ice Cap
-guide.ice_cap.desc These mushrooms are cold to the touch - but secretly harbour a lot of warmth within, the source of their vibrant glow.
-guide.cobalt_ingot.name Cobalt Ingot
-guide.cobalt_ingot.desc Make the ore into bars. You know the drill.
-guide.cobalt_spear.name Cobalt Spear
-guide.cobalt_spear.desc A new type of weapon to skewer your enemies. Does stronger damage but doesn't do a sweep attack, targeting only the enemy you are looking at.
-guide.cobalt_armour.name Cobalt Armour
-guide.cobalt_armour.desc At least one piece of cobalt armour is a must if you want to survive the coming challenges.
-guide.frozen_heart.name Frozen Heart
-guide.frozen_heart.desc This heart is cold and uncaring, and equipping it makes you feel the same way! This new state of being increases your immunity to the cold.
-guide.jet_boots.name Jet Boots
-guide.jet_boots.desc These things will send you flying upwards with a burst of energy. Just make sure you can make your way back down without going splat.
-guide.gecko_gloves.name Gecko Gloves
-guide.gecko_gloves.desc Geckos have the awesome ability to climb walls, and with these, you do too!
-guide.giant_snowball.name Giant Snowball
-guide.giant_snowball.desc Giant snowballs for a giant snowman.
-guide.evil_tophat.name Evil Tophat
-guide.evil_tophat.desc Deep in the dungeon, place the snowballs and hat on top of the pedestal to make it come to life.
-guide.spawn_snow_boss.name Snow Spirit
-guide.spawn_snow_boss.desc This guy is ice cold.
-guide.ice_pickaxe.name Ice Pickaxe
-guide.ice_pickaxe.desc With this pickaxe, you now have the ability to break new blocks, such as the snow dungeon walls, and some of the resources in the desert.
-guide.snow_dungeon_bricks.name Snow Dungeon Bricks
-guide.snow_dungeon_bricks.desc Take this you pesky dungeon! I didn't like you anyway.
-guide.to_the_desert.name To the Desert!
-guide.to_the_desert.desc The next stop on your adventure is the desert biome. Before you go up, you will have to go down!
-guide.palladium_ore.name Palladium Ore
-guide.palladium_ore.desc This is the metal of the desert.
-guide.palladium_ingot.name Palladium Ingot
-guide.palladium_ingot.desc Refined Palladium that is great for tools, weapons, and keys.
-guide.desert_key_fragment.name Key Fragment
-guide.desert_key_fragment.desc Find these in underground ruins.
-guide.desert_key.name Desert Key
-guide.desert_key.desc The desert dungeon key to the desert dungeon door.
+guide.snowball.desc Elles ne causent pas beaucoup de dégâts par elles-mêmes, mais elles peuvent servir de projectiles pour d'autres armes.
+guide.mint_crop.name Un bonbon à la menthe ?
+guide.mint_crop.desc On trouve de la menthe dans le biome enneigé, qui peut servir d'ingrédient d'alchimie.
+guide.frost_algae.name Algue de gel
+guide.frost_algae.desc Ces algues sont jolies, et servent aussi comme ingrédient d'alchimie.
+guide.cobalt_shuriken.name Shuriken en cobalt
+guide.cobalt_shuriken.desc Comme une boule de neige, mais avec des lames. Terrifiant !
+guide.snow_cannon.name Canon à neige
+guide.snow_cannon.desc Ce canon tire des boules de neige avec suffisamment de force pour faire très mal !
+guide.cobalt_ore.name Minerai de cobalt
+guide.cobalt_ore.desc Sans cobalt, vous n'irez pas très loin, alors au boulot !
+guide.ice_cap.name Champignon de gel
+guide.ice_cap.desc Froids au toucher, ces champignons dissimulent une forte chaleur à l'intérieur, source de leur lueur si vive.
+guide.cobalt_ingot.name Lingot de cobalt
+guide.cobalt_ingot.desc Minerai, fourneau, lingot. Vous connaissez la chanson.
+guide.cobalt_spear.name Lance en cobalt
+guide.cobalt_spear.desc Un nouveau type d'arme pour embrocher les monstres. Plus redoutable, mais n'inflige de dégâts qu'à l'ennemi directement visé.
+guide.cobalt_armour.name Armure en cobalt
+guide.cobalt_armour.desc Pour survivre aux défis qui vous attendent, une pièce d'armure en cobalt sera indispensable.
+guide.frozen_heart.name Cœur de glace
+guide.frozen_heart.desc Ce cœur froid et insensible, lorsque équipé, vous fera ressentir la même chose. Ce nouvel état augmente votre résistance au froid.
+guide.jet_boots.name Bottes à réaction
+guide.jet_boots.desc Ces petites merveilles vous propulseront dans les airs. Assurez-vous juste de pouvoir atterrir sans vous écraser.
+guide.gecko_gloves.name Gants de gecko
+guide.gecko_gloves.desc Les geckos ont la capacité extraordinaire de grimper aux murs. Équipé de ces gants, vous l'aurez aussi !
+guide.giant_snowball.name Boule de neige géante
+guide.giant_snowball.desc Parfaites pour un bonhomme de neige géant.
+guide.evil_tophat.name Haut-de-forme maléfique
+guide.evil_tophat.desc Au cœur du donjon, construisez un bonhomme de neige sur le piédestal, et affublez-le d'un chapeau pour lui donner la vie.
+guide.spawn_snow_boss.name Esprit des neiges
+guide.spawn_snow_boss.desc Ce type va vous glacer le sang.
+guide.ice_pickaxe.name Pioche de glace
+guide.ice_pickaxe.desc Avec cette pioche en main, vous pourrez briser de nouveaux blocs, comme ceux du donjon de glace et certaines ressources présentes dans le désert.
+guide.snow_dungeon_bricks.name Briques de donjon enneigé
+guide.snow_dungeon_bricks.desc Prends ça, fichu donjon ! De toutes façons, je t'aimais même pas.
+guide.to_the_desert.name Vers le désert !
+guide.to_the_desert.desc Le prochain arrêt de votre grande aventure, c'est le biome désertique. Avant de gravir son donjon, il faudra creuser !
+guide.palladium_ore.name Minerai de palladium
+guide.palladium_ore.desc C'est le métal local.
+guide.palladium_ingot.name Lingot de palladium
+guide.palladium_ingot.desc Du palladium raffiné, parfait pour les outils, armes, ou clés.
+guide.desert_key_fragment.name Fragment de clé
+guide.desert_key_fragment.desc Vous les trouverez dans les ruines ensevelies.
+guide.desert_key.name Clé désertique
+guide.desert_key.desc La clé qui ouvre les portes du donjon désertique.
 guide.make_table.name Table
-guide.make_table.desc Tables are cool. Eating without one will give a -3 debuff to mood. (Not really)
-guide.make_lamp.name Lamp
-guide.make_lamp.desc This is a basic lamp you can use for decoration. Painting the lampshade will also change the colour.
-guide.desert_shuriken.name Desert Shuriken
-guide.desert_shuriken.desc This is a reinforced shuriken made with cacti and palladium. Its spikes pack a punch.
-guide.desert_glider.name Desert Glider
-guide.desert_glider.desc This glider will let you fly twice as fast as a regular one. Very useful for decending from the desert dungeon roof.
-guide.cool_sword.name Cool Sword
-guide.cool_sword.desc This cool sword marks the end of your progression journey for now. I hope you had fun :) 
+guide.make_table.desc Les tables, c'est chouette. Ne pas manger sur une table abaissera votre niveau d'humeur de 3 points. (Je plaisante)
+guide.make_lamp.name Lampe de chevet
+guide.make_lamp.desc Une lampe assez basique qui sert de décoration. Peindre l'abat-jour change la couleur de la lumière.
+guide.desert_shuriken.name Shuriken désertique
+guide.desert_shuriken.desc Un shuriken renforcé fait de cactus et de palladium. Ça va piquer !
+guide.desert_glider.name Parapente désertique
+guide.desert_glider.desc Ce parapente est deux fois plus rapide qu'un parapente classique. Très utile pour descendre du sommet du donjon désertique.
+guide.cool_sword.name Épée classe
+guide.cool_sword.desc Cette épée classe marque la fin de votre périple pour le moment. J'espère que vous vous êtes bien amusé ! :)
 
-item.boimp_potion Potion de boimp
-item.hanging_vines Vignes
-item.hanging_flowers Fleurs retombantes
 item_tag.can_place Posable
 item_tag.can_consume Consommable
 item_tag.axe_power Hache
@@ -1044,10 +1171,10 @@ comfort.room_sunlight.pass Il y a assez de lumière naturelle.
 comfort.room_lava.no_lava Il n'y a pas assez de lave.
 comfort.room_lava.pass Il y a assez de lave.
 
-comfort.room_crafting.no_furnace Il me faut un fourneau.
-comfort.room_crafting.no_workbench Il me faut un établi.
-comfort.room_crafting.no_decoration Il me faut un atelier de décoration.
-comfort.room_crafting.pass J'ai les ateliers qu'il me faut.
+comfort.room_crafting.no_furnace Il n'y a pas de fourneau.
+comfort.room_crafting.no_workbench Il n'y a pas d'établi.
+comfort.room_crafting.no_decoration Il n'y a pas d'atelier de décoration.
+comfort.room_crafting.pass Il y a assez d'ateliers.
 
 comfort.Horrified.as_player Cet endroit est horrible.
 comfort.Inhospitable.as_player Cet endroit n'est pas top.
@@ -1070,7 +1197,7 @@ npc.merchant.generic2 Mon chapeau vous plaît ? Il sent bon l'opulence. Ça donn
 npc.merchant.generic3 Comment allez-vous, mon cher ami ? Ma marchandise vous remontera peut-être le moral !
 npc.merchant.generic4 Je suis un marchand. Je vends des trucs. Achetez-les.
 npc.merchant.generic5 Cessez de me regarder avec ces yeux de merlan frit, donnez-moi plutôt de l'argent !
-npc.merchant.generic6 Trust me, I'm not sneaky. I haven't even found any sneakers yet!
+npc.merchant.generic6 Vous trouvez que j'ai l'air sournois ? Vous devez faire erreur...
 npc.merchant.generic7 Je songe à passer à une formule par abonnement, vous en pensez quoi ?
 npc.merchant.generic8 Merci de vous soucier de moi. Vous savez ce qui me ferait plaisir ? Que vous m'achetiez quelque chose !
 npc.merchant.generic9 Pas d'inquiétudes, j'ai toujours tout ce qu'il faut en réserve. Mais c'est mon petit secret.
@@ -1079,49 +1206,49 @@ npc.merchant.refuse1 Cet endroit est absolument horrible ! Faites quelque chose,
 npc.merchant.refuse2 Comment suis-je censé mener mes affaires dans un tel dépotoir ? Ce n'est pas un endroit pour quelqu'un d'aussi distingué que moi !
 
 npc.blacksmith.name Forgeron
-npc.blacksmith.generic0 Let's forge this ingot, let's forge this ingot to perfection with hammers!
+npc.blacksmith.generic0 Forgeons ces lingots, forgeons-les à la perfection avec nos marteaux !
 npc.blacksmith.generic1 Avant, je savais ouvrir les géodes en deux, mais j'ai oublié. P't'être que je m'en rappelerai un jour.
 npc.blacksmith.generic2 Comment j'ai perdu ce doigt ? Il est resté coincé pendant que j'me curais le nez. Et mon œil ? Vous voulez pas savoir... 
 npc.blacksmith.generic3 J'ai entendu parler d'un forgeron légendaire qui a réussi à forger une armure scénaristique. C't'une longue histoire, mais au final, tout le monde allait bien.
 npc.blacksmith.generic4 Dès que je visite un nouveau village, je vais directement voir leur forgeron. Il s'y passe toujours des trucs intéressants.
 npc.blacksmith.generic5 Vous savez, j'me d'mande si tout ce que vous trimbalez serait plus facile à transporter si on le faisait fondre en un seul gros tas.
-npc.blacksmith.generic6 Il paraîtrait que dans les profondeurs, sous la forêt, il y a une fleur plus solide que l'or. P't'être que ça vaudrait le coup d'aller y creuser.
+npc.blacksmith.generic6 Il parait que dans les profondeurs, sous la forêt, il y a une fleur plus solide que l'or. P't'être que ça vaudrait le coup d'aller y creuser.
 npc.blacksmith.generic7 Faut toujours tempérer ses attentes. Et son métal.
 npc.blacksmith.generic8 Peu importe que vous appeliez ça des lingots ou des barres, dans tous les cas, je leur donnerai un bon coup de marteau.
 npc.blacksmith.generic9 Il faut une pioche bien costaude pour certains minerais. J'ai entendu dire qu'il y en aurait une dans le donjon forestier.
 npc.blacksmith.refuse0 Si j'ai pas l'équipement dont j'ai b'soin, je peux rien faire pour vous. Vous pouvez retaper cette pièce ?
-npc.blacksmith.refuse1 C't'une bonne piaule, mais pas assez pour travailler et marchander avec vous.
+npc.blacksmith.refuse1 C'est une chouette piaule, mais pas assez pour travailler et marchander avec vous.
 npc.blacksmith.refuse2 La chaleur de la forge me manque. Ce qu'il m'faudrait, c'est un peu de lave. Vous savez me trouver ça ?
 
 npc.farmer.name Fermier
-npc.farmer.generic0 Recently I've decided to start investigating modern farming techniques, such as engagement farming.
-npc.farmer.generic1 I have farming supplies in stock if you are interested. 
-npc.farmer.generic2 If you leave room around your plants, they may spread on their own. Sometimes they mutate and turn into an entirely different plant.
-npc.farmer.generic3 Weeds can be annoying, but if you leave them alone for a while they might grow something new.
-npc.farmer.generic4 If you don't want to water your crops, make sure to place a sprinkler. They can water plants in a 5x5 area, and run automatically.
-npc.farmer.generic5 Plants can be used to make all sorts of potions. It's not my expertise, but I've heard blueberries make an excellent reagent.
-npc.farmer.generic6 You don't need to worry about the quality of my stock. Trust me, I am not a seedy person.
-npc.farmer.generic7 Even if you are not interested in farming, tilling soil is a good source of worms. I don't find worms particularly tasty myself, but I wont judge.
-npc.farmer.generic8 Sometimes, the only way to get a plant is to explore. You wont find everything all in one place.
-npc.farmer.generic9 Plant's love moist soil, but so do weeds. Weeds can spread a lot quicker than plants, so watch out!
-npc.farmer.refuse0 My stock doesn't appear out of thin air, I need somewhere to work. Could you make a greenhouse for me?
-npc.farmer.refuse1 I want to feel the sun on my skin. Before I trade with you, I would prefer a more suitable living arrangement.
-npc.farmer.refuse2 This room is far too dim to grow plants in. I need some sunlight!
+npc.farmer.generic0 J'me suis mis aux techniques de pointe pour c'qui est de l'agriculture. Les fermes à clics, par exemple !
+npc.farmer.generic1 Si ça vous intéresse, j'ai du matériel d'agriculture en stock. 
+npc.farmer.generic2 Si vous laissez de l'espace entre tes plantes, elles peuvent s'répandre toutes seules. Parfois, elles peuvent même muter en une plante différente.
+npc.farmer.generic3 Les mauvaises herbes, c't'ennuyeux, mais si on les laisse tranquille, ça peut donner des nouvelles plantes.
+npc.farmer.generic4 Si vous avez pas envie d'arroser à la main, rien de mieux qu'un arroseur. Ça arrose dans un rayon de 5 blocs sans que vous n'ayez rien à faire.
+npc.farmer.generic5 Les plantes, ça sert à concocter plein de potions. C'pas mon rayon, mais j'ai entendu dire que les myrtilles sont très réactives, ou quelque chose du genre.
+npc.farmer.generic6 Ma marchandise, c'est d'la qualité. Croyez-moi, j'ai rien d'un pauv' paysan miteux.
+npc.farmer.generic7 Même si l'agriculture vous intéresse pas, vous pouvez trouver plein de vers en labourant la terre. Moi, j'aime pas ça, mais je juge pas.
+npc.farmer.generic8 Pour trouver de nouvelles plantes, y'a pas d'secret. Il faut explorer, vous trouverez pas tout au même endroit.
+npc.farmer.generic9 Les plantes, ça aime l'humidité, mais les mauvaises herbes aussi. Et elles s'répandent plus vite, alors faites gaffe !
+npc.farmer.refuse0 J'ai b'soin d'une serre où faire pousser ma marchandise. Vous savez m'en construire une ?
+npc.farmer.refuse1 Il faut qu'je sente le soleil sur ma peau. Avant qu'on puisse marchander, j'ai b'soin d'un meilleur endroit où vivre.
+npc.farmer.refuse2 Cette pièce est bien trop sombre pour y faire pousser quoi qu'ce soit. J'ai b'soin de lumière naturelle !
 
 npc.builder.name Maçon
-npc.builder.generic0 I like building brown bricks! It's the best thing and the most fun anyone can possibly have!
-npc.builder.generic1 I sell a lot of useful building materials. Wallpaper, paint, decorations, I have it all!
-npc.builder.generic2 One time I had a client who insisted living in an unlit, isolated room. I thought they were a vampire, but it turned out they just hated windows.
-npc.builder.generic3 If you ever get a contract for beige wallpaper and carpet, say no! I made that mistake once and I couldn't finish the job. The rooms just never ended!
-npc.builder.generic4 Don't forget you don't need a hammer to change block shapes. You can bring up the menu while holding a block, and it will remember the shape!
-npc.builder.generic5 Most blocks can be re-shaped, even the weird ones. If you are making a dirt hut, at least surround it with a dirt fence!
-npc.builder.generic6 If you don't like the colour of a light, paint it! Paint will tint light sources and change the colour they emit.
-npc.builder.generic7 If a block doesn't have a unique painted texture, white paint will probably have no effect. Paint tints a block's colour, so tinting a black block still results in black.
-npc.builder.generic8 Wallpaper is great if you want thin walls between rooms. Each side of a wallpaper base block can have a unique wallpaper applied.
-npc.builder.generic9 Make sure you build on a stable foundation. If you don't, you might end up spending 3 months working on netcode!
-npc.builder.refuse0 Before I sell to you, would you mind improving my workspace? I need a place to craft things.
-npc.builder.refuse1 I need some crafting stations before I can create any stock for you.
-npc.builder.refuse2 I don't think I can make anything for you until I have the appropriate crafting stations, sorry.
+npc.builder.generic0 J'adore construire avec des briques brunes ! C'est la chose la plus amusante que quelqu'un puisse faire !
+npc.builder.generic1 Je vends plein de matériaux de constructions utiles. Papier peint, peinture, décorations, il suffit de demander !
+npc.builder.generic2 Un jour, un de mes clients m'a demandé une pièce sombre, complètement isolée. Je croyais que c'était un vampire, mais en fait, il détestait juste les fenêtres.
+npc.builder.generic3 Si on vous demande de poser du papier peint beige et de la moquette, dites non ! J'ai fait l'erreur d'accepter une fois, et jamais pu terminer le boulot, les pièces étaient interminables !
+npc.builder.generic4 N'oubliez pas que vous pouvez modifier la forme d'un bloc sans marteau. Ouvrez le menu en tenant un bloc, et il se souviendra de la forme que vous voulez !
+npc.builder.generic5 Vous pouvez changer la forme de la plupart des blocs, même les bizarres. Si vous allez construire une cabane en terre, vous devriez au moins l'entourer d'une clôture en terre !
+npc.builder.generic6 Si la lumière ne vous plaît pas, peignez-la ! La peinture fonctionne sur les sources de lumière, et change la couleur de celle-ci.
+npc.builder.generic7 Si un bloc ne change pas de texture en la peignant, la peinture blanche le fera revenir à couleur d'origine. Puisque la peinture teint un bloc, peindre un bloc noir en noir, ça sert à rien.
+npc.builder.generic8 Les papiers peints sont parfaits pour séparer les pièces d'une maison. Chaque face d'une base pour papier peint peut accueillir un motif différent.
+npc.builder.generic9 Assurez-vous de toujours bâtir sur une fondation solide. Sinon, vous risqueriez de passer 3 mois à bosser sur du netcode !
+npc.builder.refuse0 Avant de marchander, j'aurais besoin d'un espace de travail où je peux fabriquer quelque chose.
+npc.builder.refuse1 Il me faudrait des ateliers pour que puisse fabriquer ma marchandise.
+npc.builder.refuse2 Désolé, mais sans ateliers, je ne peux pas faire quoi que ce soit pour vous.
 
 ui.generic.apply Appliquer
 ui.generic.back Retour

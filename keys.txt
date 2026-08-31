@@ -4,7 +4,7 @@ item.copper_axe Hache en cuivre
 item.copper_ingot Lingot de cuivre
 item.iron_ingot Lingot de fer
 item.health_potion Potion de soin
-item.health_potion.desc Restaure 5 cœurs.
+item.health_potion.desc Restaure 100 PV.
 item.empty Vide
 item.stone Roche
 item.unknown Inconnu
@@ -12,16 +12,18 @@ item.dirt Terre
 item.grass Herbe
 item.planks Planches
 item.water Eau (ancienne)
+item.water.desc Bloc obsolète (Conservé pour des raisons de compatibilité)
 item.sand Sable
 item.lamp_white Lampe blanche
 item.lamp_blue Lampe bleue
 item.lava Lave (ancienne)
+item.lava.desc Bloc obsolète (Conservé pour des raisons de compatibilité)
 item.log Bûche de chêne
 item.leaves Feuilles
 item.grass_tall Hautes herbes
 item.workbench Établi
 item.workbench.desc Peut fabriquer des objets plus complexes.
-item.worldBorder Bordure
+item.worldBorder Bordure du monde
 item.worldBorder.desc Si vous avez pu obtenir ça, c'est soit que vous trichez, soit que mon jeu est cassé. ):
 item.copper_ore Minerai de cuivre
 item.copper_ore.desc Peut être fondu en lingots.
@@ -75,6 +77,8 @@ item.flint_hammer.desc Permet de changer la forme des blocs.
 item.bagel Bagel
 item.everything_bagel Bagel de l'infini
 item.everything_bagel.desc Un bagel avec une infinité de saveurs.
+item.nothing_bagel Bagel du néant
+item.nothing_bagel.desc Donne-moi un bagel sans rien.
 item.blueberry Myrtille
 item.birch_log Bûche de bouleau
 item.maple_log Bûche d'érable
@@ -155,7 +159,7 @@ item.dart_trap.desc Tire des fléchettes empoisonnées.
 
 item.thorn_blade Lame épineuse
 item.regen_charm Pierre de régénération
-item.regen_charm.desc Restaure ¼ de cœur toutes les 4 secondes.
+item.regen_charm.desc Restaure 1 PV toutes les 4 secondes.
 item.jet_boots Bottes à réaction
 item.jet_boots.desc Sautez en l'air pour les enclencher, possèdent 1 seconde de carburant.
 item.spring_boots Bottes à ressorts
@@ -193,6 +197,7 @@ item.thick_birch_log Tronc de bouleau
 item.thick_maple_log Tronc d'érable
 item.thick_oak_log Tronc de chêne
 item.thick_pine_log Tronc de pin
+item.thick_palm_log Tronc de palmier
 item.trampoline Trampoline
 item.trampoline.desc Vous permet de rebondir très haut.
 item.launch_pad Rampe de lancement
@@ -215,14 +220,14 @@ item.cloth_light_pink Tissu rose clair
 item.cloth_brown Tissu marron
 
 item.weak_health_potion Petite potion de soin
-item.weak_health_potion.desc Restaure 2½ cœurs.
+item.weak_health_potion.desc Restaure 50 PV.
 item.poison_potion Potion de poison
 item.poison_potion.desc La boire n'est pas recommandé !
 item.speed_potion Potion de rapidité
 item.regen_potion Potion de régénération
-item.regen_potion.desc Restaure lentement des cœurs pendant 5 minutes.
+item.regen_potion.desc Restaure lentement votre santé pendant 5 minutes.
 item.armour_potion Potion de blindage
-item.armour_potion.desc Augmente votre défense de 4 points pendant 5 minutes.
+item.armour_potion.desc Augmente votre défense de 10 points pendant 5 minutes.
 item.respawn_potion Potion de retour
 item.respawn_potion.desc Vous téléporte à votre point d'apparition.
 item.flight_potion Potion de vol
@@ -381,7 +386,7 @@ item.sapphire_ore Saphir
 item.diamond_ore Diamant
 item.cobalt_plated_stone Roche plaquée de cobalt
 item.alpha_shop Magasin alpha
-item.alpha_shop.desc (Sera supprimé quand les PNJs seront ajoutés.)
+item.alpha_shop.desc Bloc obsolète.
 item.white_torch Torche blanche
 item.ice_crate Caisse de glace
 item.ice_chest Coffre de glace
@@ -436,7 +441,7 @@ item.spawn_skeleton Invocation de squelette
 item.spawn_wizard Invocation de sorcier
 item.spawn_wizard_ice Invocation de sorcier des glaces
 item.spawn_mushroomer Invocation de choupignon
-item.spawn_nightflyer Invocation d'avialien nocture
+item.spawn_nightflyer Invocation d'avialien nocturne
 item.spawn_snowman Invocation de bonhomme de neige
 item.spawn_stone_golem Invocation de golem de pierre
 item.spawn_yeti Invocation de yéti
@@ -529,10 +534,289 @@ item.dungeon_bricks_unstable.desc Se cassent sous votre poids.
 item.forest_jelly Gelée forestière
 item.forest_jelly.desc Parfois solide, parfois pas.
 item.bone_club Gourdin en os
-
 item.boimp_potion Potion de boimp
 item.hanging_vines Vignes
 item.hanging_flowers Fleurs retombantes
+item.myosotis Myosotis
+item.wallpaper_wood Bardage en bois
+item.wallpaper_stone Bardage en pierre
+item.pebbles Galets
+item.grassy_stone Pierre herbeuse
+item.wallpaperable_wood Base pour papier peint (Bois)
+item.wallpaperable_stone Base pour papier peint (Pierre)
+item.bed Lit
+
+item.geode Géode
+item.merchant_hat Chapeau de marchand
+item.merchant_backpack Sac à dos de marchand
+item.palm_log Bûche de palmier
+item.maple_bookshelf Bibliothèque en érable
+item.street_lamp Lampadaire
+item.npc_sign Pancarte de maison pour PNJ
+
+item.ice_pickaxe Pioche de glace
+item.ice_pickaxe.desc Peut miner le palladium
+item.palladium_pickaxe Pioche en palladium
+item.palladium_sword Épée en palladium
+item.cleaver Feuille de boucher
+item.nightmare_blade Lame cauchemardesque
+item.nightmare_blade.desc Cette épée est vraiment trop stylée.
+item.cursed_pickaxe Pioche maudite
+item.cursed_pickaxe.desc Ne minez pas avec !
+item.compact_disc Disque compact
+item.compact_disc.desc Une technologie ancienne.
+item.palladium_spear Lance en palladium
+item.palladium_axe Hache en palladium
+item.palladium_helmet Casque en palladium
+item.palladium_chestplate Plastron en palladium
+item.palladium_greaves Jambières en palladium
+item.palladium_bow Arc en palladium
+item.palladium_crossbow Arbalète en palladium
+item.coconut_cannon Canon à noix de coco
+item.coconut_splitter Double canon à noix de coco
+item.glass_cannon Canon à verre
+item.shuriken_launcher Lance-shuriken
+item.ice_arrow Flèche de glace
+item.ice_arrow.desc Frigorifie votre cible.
+item.shock_arrow Flèche électrifiée
+item.shock_arrow.desc Assomme votre cible.
+item.palladium_arrow Flèche en palladium
+item.coconut Noix de coco
+item.desert_shuriken Shuriken désertique
+item.snowball_shuriken Shuriken de neige
+item.cobalt_shuriken Shuriken en cobalt
+item.glass_shard Bris de verre
+item.palladium_ingot Lingot de palladium
+item.purple_fire_extinguisher Extincteur de flamme pourpre
+item.purple_fire_extinguisher Pour éteindre la flamme magique.
+item.purple_fire_lighter Briquet de flamme pourpre
+item.purple_fire_lighter Pour raviver la flamme magique.
+item.sand_dungeon_key Clé du donjon désertique
+item.sand_dungeon_key.desc Ouvre la porte du donjon désertique.
+item.desert_glider Parapente désertique
+item.desert_glider.desc Le rose vous rend plus rapide.
+item.frozen_heart Cœur de glace
+item.frozen_heart.desc Vous immunise contre le gel.
+item.paint_roller_pixel Rouleau de peinture (Palette pixel)
+item.paint_roller_greyscale Rouleau de peinture (Palette niveaux de gris)
+item.paint_roller_desert Rouleau de peinture (Palette désertique)
+item.spawn_mossy_stone_golem Invocation de golem moussu
+item.spawn_iceflyer Invocation d'avalien des glaces
+item.spawn_poison_bulb Invocation de bulbe vénéneux
+item.spawn_mummy Invocation de momie
+item.spawn_sand_ghost Invocation de fantôme sablonneux
+item.spawn_tumbleweed Invocation de virevoltant
+item.spawn_sand_skeleton Invocation de squelette sablonneux
+item.spawn_faceless_miner Invocation de mineur sans visage
+item.thorns Épines
+item.sand_key_part Fragment de clé désertique
+item.sand_key_part.desc Assemblez-en 3.
+item.sakura_log Bûche de cerisier
+item.palm_leaves Feuilles de palmier
+item.sakura_leaves Feuilles de cerisier
+item.yellow_snow Neige jaune
+item.yellow_snow.desc Ne la mangez pas !
+item.thermal_vent Source hydrothermale
+item.thermal_vent.desc Suspicieusement chaude.
+item.bone_block Bloc d'os
+item.quicksand Sables mouvants
+item.quicksand.desc Vous avez un mauvais préssentiment...
+item.sandstone_grass Grès herbeux
+item.palm_sapling Datte de palmier
+item.ice_cap Champignon gelé
+item.orange_fungi Champignon orange
+item.palladium_ore Minerai de palladium
+item.palm_planks Planches de palmier
+item.sakura_planks Planches de cerisier
+item.palladium_plated_stone Roche plaquée de palladium
+item.iron_anvil Enclume en fer
+item.sand_chest Coffre désertique
+item.sand_dungeon_bricks Briques de donjon désertique
+item.sand_dungeon_block Bloc de donjon désertique
+item.sand_dungeon_lock Verrou de donjon désertique
+item.sand_dungeon_summon Invocation de donjon désertique
+item.sand_dungeon_spawner Invocateur de donjon désertique
+item.sand_dungeon_grate Grille de donjon désertique
+item.sand_dungeon_torch Torche de donjon désertique
+item.sand_dungeon_bricks_unstable Briques instables de donjon désertique
+item.sand_dungeon_platform Plateforme de donjon désertique
+item.logic_entwine Entrelaceur logique
+item.structure_replace Remplacement de structure
+item.fluid.spring_water Eau de source
+item.evil_flower Fleur maléfique secrète
+item.evil_flower.desc Pourquoi vous l'avez faite pousser ?!?!
+item.lush_grass_seed Graines d'herbe luxuriante
+item.lush_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
+item.forest_grass_seed Graines d'herbe forestière
+item.forest_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
+item.dry_grass_seed Graines d'herbe automnale
+item.dry_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
+item.gravel Gravier
+item.gold_flower Fleur dorée
+item.gold_flower Une récompense pour votre dévouement pour la culture des fleurs.
+item.painting_sky Peinture (Ciel)
+item.painting_alpha Peinture (Alpha)
+item.painting_droplet Peinture (Goutelette)
+item.painting_ornate Peinture (Ornée)
+item.painting_parthenon Peinture (Parthénon)
+item.painting_horse Peinture (Cheval)
+
+item.bubble_mix Tube à bulles
+item.bubble_machine Machine à bulles
+
+guide.open_menu.name Le commencement
+guide.open_menu.desc Bienvenue dans le compendium ! Ce guide vous présentera de nouvelles choses à accomplir au fur et à mesure de votre progression. C'est facultatif, mais si vous êtes bloqués, n'hésitez pas à le consulter ! 
+guide.pickup_rocks.name Ramasser des pierres
+guide.pickup_rocks.desc Il vous faudra un peu de silex pour vos premiers outils. Cinq morceaux devraient suffire.
+guide.chop_tree.name Frapper les arbres
+guide.chop_tree.desc Une étape clé de toute aventure digne de ce nom. Le héros doit triompher de l'arbre pour continuer son voyage.
+guide.make_workbench.name Fabriquer un établi
+guide.make_workbench.desc Avec les bûches en votre possession, ouvrez votre inventaire et utilisez le menu d'artisanat pour en faire des planches. Cinq planches vous permettront de fabriquer un établi
+guide.pickaxe.name Pioche en silex
+guide.pickaxe.desc Pour casser les blocs de terre et de pierre, il vous faudra une pioche en silex.
+guide.sword.name Épée en silex
+guide.sword.desc Elle vous sera utile pour pourfendre les créatures qui rôdent la nuit.
+guide.axe.name Hache en silex
+guide.axe.desc Les haches coupent les blocs de bois plus rapidement que les autres outils.
+guide.night_danger.name La nuit arrive !
+guide.night_danger.desc Votre première nuit sera la plus difficile. Construisez-vous un abri et fabriquez des armes et de l'armure dès que possible. N'ayez pas peur d'aller miner.
+guide.biomes.name Restez dans la forêt !
+guide.biomes.desc Les biomes augmentent en difficulté. Ne quittez pas la forêt trop tôt, car vous ne survivrez pas au biome enneigé ou au désert pour l'instant.
+guide.make_housing.name Bâtiments
+guide.make_housing.desc Mieux vaut construire des bâtiments pour pouvoir y accueillir des PNJs (personnages non-jouables). Assurez-vous que la pièce est close et suffisamment éclairée, et placez un panneau PNJ pour vérifier que l'endroit est adéquat. 
+guide.decoration_station.name Ameublement
+guide.decoration_station.desc Vous pouvez acheter un atelier de décoration auprès d'un marchand, avec lequel vous pourrez fabriquer plein d'objets de décoration. Ameubler la pièce d'un PNJ augmentera son niveau de confort.
+guide.make_bed.name Lits
+guide.make_bed.desc Vous pouvez obtenir des lits auprès d'un maçon, mais il lui faut un endroit où habiter. Pour accueillir un lit, la pièce doit être confortable. Une bonne décoration favorise un sommeil rapide.
+guide.make_chair.name Chaises
+guide.make_chair.desc Les chaises sont une façon simple d'égayer une pièce.
+guide.block_shaping.name La forme des blocs
+guide.block_shaping.desc Vous pouvez changer la forme de tout bloc plein en utilisant le marteau, ou le menu de sélection de forme. Les contrôles.
+guide.block_painting.name Peinture
+guide.block_painting.desc Vous pouvez repeindre tous les blocs à l'aide d'un rouleau de peinture. La peinture blanche rend à la plupart des blocs leur couleur d'origine, mais ce n'est pas toujours le cas.
+guide.copper_ore.name Minerai de cuivre
+guide.copper_ore.desc Le cuivre est le second échelon sur l'échelle des matériaux, au dessus du silex. 
+guide.coal_ore.name Dépôts de charbon
+guide.coal_ore.desc Vous devriez miner du charbon au plus vite. Le charbon se trouve en surface ou dans les souterrains.
+guide.furnace.name Fourneau
+guide.furnace.desc Vous aurez besoin d'un fourneau pour transformer les minerais en lingots.
+guide.copper_ingot.name Cuivre
+guide.copper_ingot.desc Le cuivre donne accès à des recettes supplémentaires, telles que celles des armures, des arcs, ou d'autres outils.
+guide.make_torch.name Torches
+guide.make_torch.desc Les torches sont faites à partir de planches et de charbon. Fabriquez-en le plus vite possible, car les nuits sont très sombres.
+guide.iron_ingot.name Fer
+guide.iron_ingot.desc L'échelon au dessus du cuivre. 
+guide.silver_ingot.name Argent
+guide.silver_ingot.desc L'échelon au dessus du fer.
+guide.gold_ingot.name Or
+guide.gold_ingot.desc L'échelon au dessus de l'argent.
+guide.heart_beet.name Batte-cœur
+guide.heart_beet.desc Ce légume fort utile possède un effet très particulier lorsqu'il est consommé.
+guide.sneakers.name Sneakers
+guide.sneakers.desc Équiper cet ornement vous permet de vous accroupir.
+guide.iron_crossbow.name Arbalète en fer
+guide.iron_crossbow.desc Les arbalètes permettent de décocher des flèches en continu en maintenant la touche de tir.
+guide.iron_bow.name Arc en fer
+guide.iron_bow.desc Privilégiez les arcs pour le combat à distance. Plus vous chargez votre tir, plus celui-ci causera de dégâts.
+guide.shuriken.name Shuriken
+guide.shuriken.desc Ces armes de lancer sont faciles à fabriquer et peuvent être redoutables. On les trouve en abondance dans des caisses souterraines.
+guide.potion_station.name Atelier d'alchimie
+guide.potion_station.desc Utilisez-le pour concocter des potions. Leurs effets seront utiles au combat.
+guide.silver_armour.name Armure en argent
+guide.silver_armour.desc Équipez une pièce d'armure en argent.
+guide.ominous_skull.name Crâne menaçant
+guide.ominous_skull.desc Ce crâne émet une faible lueur. Préparez-vous à faire face à vos pires cauchemars.
+guide.forest_key.name Clé forestière
+guide.forest_key.desc La clé d'un donjon mystérieux au cœur de la forêt. Essayez de trouver un énorme tronc de chêne.
+guide.spoon.name Cuillère à gelée
+guide.spoon.desc Un ornement qui vous permet de traverser certains blocs lorsqu'il est équipé. Pour l'obtenir, combinez les fragments obtenus sur les monstres au sein du donjon.
+guide.forest_pickaxe.name Pioche forestière
+guide.forest_pickaxe.desc Avec cet outil en main, vous pourrez creuser encore plus profondément.
+guide.forest_blessing.name Bénédiction de la forêt
+guide.forest_blessing.desc Cet objet à usage unique booste votre endurance.
+guide.forest_flower.name Fleur forestière
+guide.forest_flower.desc Un matériau utile que l'on trouve dans les florabysses.
+guide.forest_ingot.name Lingot forestier
+guide.forest_ingot.desc Un alliage de fleurs forestières et d'épines.
+guide.farming_node.name Agriculture
+guide.farming_node.desc Construire une ferme pour y cultiver des plantes peut s'avérer fort utile. Les cultures peuvent servir comme ingrédients d'alchimie.
+guide.watering_can.name Mode manuel
+guide.watering_can.desc Vous pouvez arroser vos cultures à la main grâce à un arrosoir pour les faire pousser. La terre restera irriguée pendant un moment.
+guide.sprinkler.name Mode automatique
+guide.sprinkler.desc Les arroseurs irrigueront vos cultures automatiquement dans un rayon de 5 blocs.
+guide.wheat.name Blé
+guide.wheat.desc Une variété commune de plante, qui sert à obtenir du pain ou des potions.
+guide.arrowroot.name Marante
+guide.arrowroot.desc La marante est une plante rare obtenue par mutation. On peut l'utiliser comme une flèche.
+guide.bomb_berry.name Baie-bombe
+guide.bomb_berry.desc Les baies-bombes explosent lorsqu'on les lance. Elles peuvent pousser spontanément sur de la terre labourée libre lorsque vous cultivez d'autres plantes.
+guide.fishing_rod.name Canne à pêche
+guide.fishing_rod.desc Pêcher sert à obtenir des ingrédients d'alchimie, et vous permet de compléter votre catalogue de pêche.
+guide.sprint_boots.name « Ajoute le sprint stp »
+guide.sprint_boots.desc Ces bottes vous permettent de courir ! Votre endurance est limitée, mais il existe des moyens de l'augmenter.
+guide.rose.name Sous tout autre nom...
+guide.rose.desc L'arrosage ne profite pas qu'aux cultures. Arroser d'autres blocs, comme l'herbe, peut faire pousser des fleurs et plantes uniques.
+guide.to_the_snow.name Vers la neige !
+guide.to_the_snow.desc Il est temps d'explorer le biome enneigé pour continuer votre périple. Amusez-vous bien !
+guide.ice_arrow.name Flèche de glace
+guide.ice_arrow.desc Ces flèches causent plus de dégâts, et en plus, l'ennemi finit frigorifié. Brr !
+guide.snowball.name Boules de neiges
+guide.snowball.desc Elles ne causent pas beaucoup de dégâts par elles-mêmes, mais elles peuvent servir de projectiles pour d'autres armes.
+guide.mint_crop.name Un bonbon à la menthe ?
+guide.mint_crop.desc On trouve de la menthe dans le biome enneigé, qui peut servir d'ingrédient d'alchimie.
+guide.frost_algae.name Algue de gel
+guide.frost_algae.desc Ces algues sont jolies, et servent aussi comme ingrédient d'alchimie.
+guide.cobalt_shuriken.name Shuriken en cobalt
+guide.cobalt_shuriken.desc Comme une boule de neige, mais avec des lames. Terrifiant !
+guide.snow_cannon.name Canon à neige
+guide.snow_cannon.desc Ce canon tire des boules de neige avec suffisamment de force pour faire très mal !
+guide.cobalt_ore.name Minerai de cobalt
+guide.cobalt_ore.desc Sans cobalt, vous n'irez pas très loin, alors au boulot !
+guide.ice_cap.name Champignon gelé
+guide.ice_cap.desc Froids au toucher, ces champignons dissimulent une forte chaleur à l'intérieur, source de leur lueur si vive.
+guide.cobalt_ingot.name Lingot de cobalt
+guide.cobalt_ingot.desc Minerai, fourneau, lingot. Vous connaissez la chanson.
+guide.cobalt_spear.name Lance en cobalt
+guide.cobalt_spear.desc Un nouveau type d'arme pour embrocher les monstres. Plus redoutable, mais n'inflige de dégâts qu'à l'ennemi directement visé.
+guide.cobalt_armour.name Armure en cobalt
+guide.cobalt_armour.desc Pour survivre aux défis qui vous attendent, une pièce d'armure en cobalt sera indispensable.
+guide.frozen_heart.name Cœur de glace
+guide.frozen_heart.desc Ce cœur froid et insensible, lorsque équipé, vous fera ressentir la même chose. Ce nouvel état augmente votre résistance au froid.
+guide.jet_boots.name Bottes à réaction
+guide.jet_boots.desc Ces petites merveilles vous propulseront dans les airs. Assurez-vous juste de pouvoir atterrir sans vous écraser.
+guide.gecko_gloves.name Gants de gecko
+guide.gecko_gloves.desc Les geckos ont la capacité extraordinaire de grimper aux murs. Équipé de ces gants, vous l'aurez aussi !
+guide.giant_snowball.name Boule de neige géante
+guide.giant_snowball.desc Parfaites pour un bonhomme de neige géant.
+guide.evil_tophat.name Haut-de-forme maléfique
+guide.evil_tophat.desc Au cœur du donjon, construisez un bonhomme de neige sur le piédestal, et affublez-le d'un chapeau pour lui donner la vie.
+guide.spawn_snow_boss.name Esprit des neiges
+guide.spawn_snow_boss.desc Ce type va vous glacer le sang.
+guide.ice_pickaxe.name Pioche de glace
+guide.ice_pickaxe.desc Avec cette pioche en main, vous pourrez briser de nouveaux blocs, comme ceux du donjon de glace et certaines ressources présentes dans le désert.
+guide.snow_dungeon_bricks.name Briques de donjon enneigé
+guide.snow_dungeon_bricks.desc Prends ça, fichu donjon ! De toutes façons, je t'aimais même pas.
+guide.to_the_desert.name Vers le désert !
+guide.to_the_desert.desc Le prochain arrêt de votre grande aventure, c'est le biome désertique. Avant de gravir son donjon, il faudra creuser !
+guide.palladium_ore.name Minerai de palladium
+guide.palladium_ore.desc C'est le métal local.
+guide.palladium_ingot.name Lingot de palladium
+guide.palladium_ingot.desc Du palladium raffiné, parfait pour les outils, armes, ou clés.
+guide.desert_key_fragment.name Fragment de clé
+guide.desert_key_fragment.desc Vous les trouverez dans les ruines ensevelies.
+guide.desert_key.name Clé désertique
+guide.desert_key.desc La clé qui ouvre les portes du donjon désertique.
+guide.make_table.name Table
+guide.make_table.desc Les tables, c'est chouette. Ne pas manger sur une table abaissera votre niveau d'humeur de 3 points. (Je plaisante.)
+guide.make_lamp.name Lampe de chevet
+guide.make_lamp.desc Une lampe assez basique qui sert de décoration. Peindre l'abat-jour change la couleur de la lumière.
+guide.desert_shuriken.name Shuriken désertique
+guide.desert_shuriken.desc Un shuriken renforcé fait de cactus et de palladium. Ça va piquer !
+guide.desert_glider.name Parapente désertique
+guide.desert_glider.desc Ce parapente est deux fois plus rapide qu'un parapente classique. Très utile pour descendre du sommet du donjon désertique.
+guide.cool_sword.name Épée classe
+guide.cool_sword.desc Cette épée classe marque la fin de votre périple pour le moment. J'espère que vous vous êtes bien amusé ! :)
+
 item_tag.can_place Posable
 item_tag.can_consume Consommable
 item_tag.axe_power Hache
@@ -545,11 +829,12 @@ item_tag.melee_damage Mêlée
 item_tag.defence Défense
 item_tag.required_ammo Munitions requises
 item_tag.ammo Munitions
-item_tag.ranged_damage Distance
+item_tag.ranged_damage À distance
 item_tag.trinket Ornement
 item_tag.can_block Contre
 item_tag.knockback Recul
 item_tag.demo_locked Verrouillé dans la démo
+item_tag.material_level Niveau du matériau
 
 settings.field_of_view Champ de vision
 settings.max_fps FPS max.
@@ -601,6 +886,17 @@ settings.reset_shape_on_swap Réinit. forme au changement de bloc
 settings.world_settings Permissions du monde
 settings.player_settings Permission des joueurs
 settings.button_reset_keybinds Réinitialiser les touches
+settings.audio_header Audio
+settings.misc_header Divers
+settings.assets_info Pack de ressources
+settings.button_open_assets Ouvrir le dossier des packs
+settings.camera_header Caméra
+settings.animated_textures Textures animées
+settings.header_experimental Paramètres expérimentaux
+settings.show_aurora Afficher les aurores
+settings.fluffy_clouds Nuages doux
+settings.field_of_view_viewmodel Champ de vision de votre main
+settings.show_compendium_popup Afficher la notif. du compendium
 
 settings_category.camera Caméra
 settings_category.video Vidéo
@@ -610,6 +906,7 @@ settings_category.misc Divers
 settings_category.keybinds Assignation des touches
 settings_category.cheats Triche
 settings_category.language Langue
+settings_category.assets Packs de ressources
 
 permission.allow_noclip Autoriser le noclip
 permission.allow_infinite_item Objets infinis
@@ -638,6 +935,16 @@ control_hint.equip Déséquiper
 control_hint.change_shape Changer de forme
 control_hint.show_recipes Recettes
 
+settings.third_person_header Troisième personne
+settings.third_person_mode Mode 3e personne
+settings.auto_backups Sauvegardes automatiques
+settings.files_header Emplacement des fichiers
+settings.button_open_backups Ouvrir les sauvegardes automatiques
+settings.button_open_save Ouvrir les sauvegardes
+settings.button_open_skins Ouvrir le dossier des skins
+settings.chunk_mesh_unload_time Secondes avant déchargement des tronçons
+keybind.toggle_third_person Activer 3e personne
+
 keybind.move_forward Avancer
 keybind.move_backward Reculer
 keybind.move_left Gauche
@@ -656,6 +963,9 @@ keybind.drop_modifier Jeter l'amélioration
 keybind.pause Pause
 keybind.ui_confirm Confirmer (interface)
 keybind.ui_secondary Action secondaire (interface)
+keybind.open_compendium Ouvrir le compendium
+keybind.quick_heal Soin rapide
+keybind.quick_buff Amélioration rapide
 keybind.toggle_debug Écran de débogage
 keybind.toggle_profiler Écran de profilage
 keybind.toggle_fullscreen Plein écran
@@ -680,8 +990,8 @@ keybind.send_chat Envoyer un message
 keybind.toggle_hud Basculer l'affichage de l'interface
 keybind.take_screenshot Capture d'écran
 keybind.open_radial Ouvrir le menu radial
-keybind.sneak S'accroupir
-keybind.sprint Courir
+keybind.sneak S'accroupir (avec ornement)
+keybind.sprint Courir (avec ornement)
 keybind.show_use Afficher les utilisations
 keybind.show_recipe Afficher les recettes
 keybind.pick_block Prendre le bloc
@@ -690,11 +1000,18 @@ keybind.scroll_down Défiler bas
 keybind.favourite_item Mettre en favori
 keybind.fish_left Remonter le poisson à gauche
 keybind.fish_right Remonter le poisson à droite
+keybind.hotbar_left Gauche (barre d'action)
+keybind.hotbar_right Droite (barre d'action)
+keybind.move_stack_modifier Modificateur pour déplacer une pile
+keybind.delete_stack_modifier Modificateur pour supprimer une pile
 
 ammo.arrow Flèche
 ammo.rock Pierre
 ammo.bullet Balle
 ammo.snowball Boule de neige
+ammo.shuriken Shuriken
+ammo.coconut Noix de coco
+ammo.glass Verre
 
 effect.poison Empoisonné
 effect.desc.poison Inflige des dégâts au fil du temps.
@@ -752,16 +1069,16 @@ crafting_station.decorations Atelier de décoration
 crafting_station.potions Atelier d'alchimie
 
 loading.tip0 Les monstres n'apparaîtront que sur des blocs naturellement générés.
-loading.tip1 Appuyez sur «R» pour afficher les recettes d'un objet.
-loading.tip2 Maintenez «R» en tenant un bloc pour modifier sa forme.
+loading.tip1 Appuyez sur la touche des recettes pour afficher les recettes d'un objet.
+loading.tip2 Maintenez la touche de changement de forme en tenant un bloc pour modifier sa forme.
 loading.tip3 Les pousses peuvent muter si vous laissez de la terre fertile vide.
 loading.tip4 Faites attention aux pièges souterrains et dans les donjons.
 loading.tip5 Vous pouvez poser des rails à l'envers et sur les murs.
 loading.tip6 Les torches n'empêchent pas l'apparition des monstres dans les souterrains.
 loading.tip7 Utilisez un pointeur d'apparition pour définir votre point d'apparition.
 loading.tip8 Utilisez des potions de retour pour rentrer chez vous si vous êtes perdus.
-loading.tip9 Maintenez «CTRL» et cliquez sur des objets pour les envoyer à la poubelle.
-loading.tip10 Vous pouvez empiler automatiquement des objets dans les coffres à proximité.
+loading.tip9 Maintenez « CTRL » et cliquez sur des objets pour les envoyer à la poubelle.
+loading.tip10 Vous pouvez ranger automatiquement des objets dans les coffres à proximité.
 loading.tip11 Vous pouvez trier votre inventaire.
 loading.tip12 Certaines armes peuvent bloquer les attaques ennemies.
 loading.tip13 Utilisez l'atelier de décoration pour fabriquer des objets trop cools.
@@ -772,7 +1089,7 @@ loading.tip17 Si vous trouvez un bug, merci de le signaler sur le Discord.
 loading.tip18 Des avis ? Rejoignez le Discord ou remplissez le formulaire.
 loading.tip19 La durabilité des outils n'existe pas, elle ne peut donc pas vous faire de mal.
 loading.tip20 Si vous laissez pousser des mauvaises herbes dans votre jardin, elles peuvent muter...
-loading.tip21 Appuyez sur «F11» pour activer le mode plein écran.
+loading.tip21 Placez un panneau de maison pour PNJ pour inviter des villageois.
 loading.tip22 Jouer au basket durant un combat de boss peut être bénéfique.
 loading.tip23 Les batte-cœurs peuvent être utilisées pour augmenter votre vie maximale. 
 loading.tip24 Les flèches explosives sont dangereuses lors d'un combat rapproché.
@@ -811,3 +1128,160 @@ colour.mint Vert menthe
 colour.baby_blue Bleu ciel
 colour.lavender Lavande
 colour.pastel_pink Rose pastel
+colour.transparent_black Noir transparent (pour le texte)
+colour.blank Vide
+colour.pastel_yellow Jaune pastel
+colour.pastel_blue Bleu pastel
+colour.pixel_red Rouge pixel
+colour.pixel_orange Orange pixel
+colour.pixel_yellow Jaune pixel
+colour.pixel_lime Vert clair pixel
+colour.pixel_green Vert pixel
+colour.pixel_dark_green Vert foncé pixel
+colour.pixel_blue Bleu pixel
+colour.pixel_light_blue Bleu clair pixel
+colour.pixel_velvet Cramoisi pixel
+colour.pixel_maroon Marron pixel
+colour.pixel_rust Rouille pixel
+colour.pixel_brown Brun pixel
+colour.pixel_navy Bleu marine pixel
+colour.pixel_violet Violet pixel
+colour.pixel_purple Mauve pixel
+colour.pixel_pink Rose pixel
+colour.grey_32 Gris à 12 %
+colour.grey_64 Gris à 25 %
+colour.grey_128 Gris à 50 %
+colour.grey_192 Gris à 75 %
+colour.grey_224 Gris à 88 %
+colour.red_earth Ocre rouge
+colour.sunset_orange Coucher de soleil
+colour.deep_orange Orange sanguine
+colour.desert_red Rouge désertique
+colour.victorian_plum Prune
+colour.desert_pink Rose désertique
+colour.desert_brown Brun désertique
+colour.golden_brown Brun doré
+colour.sandstone Grès
+colour.desert_sand Sable désertique
+colour.potato Pomme de terre
+colour.desert_blue Bleu désertique
+
+comfort.room_size.too_big Cet espace n'est pas clos.
+comfort.room_size.too_small Cette pièce est trop petite.
+comfort.room_size.pass La taille de la pièce est parfaite.
+
+comfort.room_light.too_dark Il fait trop sombre ici.
+comfort.room_light.too_bright C'est trop éclairé ici.
+comfort.room_light.pass C'est éclairé comme il faut.
+
+comfort.room_sunlight.too_dark Il n'y a pas assez de lumière naturelle.
+comfort.room_sunlight.too_bright Il y a trop de lumière naturelle.
+comfort.room_sunlight.no_direct Il n'y a pas de lumière naturelle directe.
+comfort.room_sunlight.pass Il y a assez de lumière naturelle.
+
+comfort.room_lava.no_lava Il n'y a pas assez de lave.
+comfort.room_lava.pass Il y a assez de lave.
+
+comfort.room_crafting.no_furnace Il n'y a pas de fourneau.
+comfort.room_crafting.no_workbench Il n'y a pas d'établi.
+comfort.room_crafting.no_decoration Il n'y a pas d'atelier de décoration.
+comfort.room_crafting.pass Il y a assez d'ateliers.
+
+comfort.Horrified.as_player Cet endroit est horrible.
+comfort.Inhospitable.as_player Cet endroit n'est pas top.
+comfort.Uncomfortable.as_player C'est pas très confortable.
+comfort.Acceptable.as_player Cet endroit n'est pas mal.
+comfort.Comfortable.as_player Ça a l'air confortable.
+comfort.VeryComfortable.as_player C'est vraiment charmant ici.
+
+comfort.Horrified.as_npc Cet endroit est horrible ! Qu'est-ce que vous avez fait ?!
+comfort.Inhospitable.as_npc Je n'aime pas du tout cet endroit !
+comfort.Uncomfortable.as_npc Je ne trouve pas cet endroit très confortable.
+comfort.Acceptable.as_npc Ça pourrait être pire, je crois...
+comfort.Comfortable.as_npc Je me plais bien ici, c'est un endroit sympa.
+comfort.VeryComfortable.as_npc Cet endroit est génial ! J'adore y vivre.
+
+npc.merchant.name Marchand
+npc.merchant.generic0 Lampes à huile, corde, bombes... Bon, en fait, je ne vends qu'une de ces choses.
+npc.merchant.generic1 Vous n'allez pas le croire, mais avant, j'étais un bloc. Bon, dit comme ça, c'est vrai que c'est bizarre...
+npc.merchant.generic2 Mon chapeau vous plaît ? Il sent bon l'opulence. Ça donne envie d'acheter quelque chose, non ?
+npc.merchant.generic3 Comment allez-vous, mon cher ami ? Ma marchandise vous remontera peut-être le moral !
+npc.merchant.generic4 Je suis un marchand. Je vends des trucs. Achetez-les.
+npc.merchant.generic5 Cessez de me regarder avec ces yeux de merlan frit, donnez-moi plutôt de l'argent !
+npc.merchant.generic6 Vous trouvez que j'ai l'air sournois ? Vous devez faire erreur...
+npc.merchant.generic7 Je songe à passer à une formule par abonnement, vous en pensez quoi ?
+npc.merchant.generic8 Merci de vous soucier de moi. Vous savez ce qui me ferait plaisir ? Que vous m'achetiez quelque chose !
+npc.merchant.generic9 Pas d'inquiétudes, j'ai toujours tout ce qu'il faut en réserve. Mais c'est mon petit secret.
+npc.merchant.refuse0 Tant que je n'ai pas une demeure digne de ce nom, je ne ferai pas commerce avec vous !
+npc.merchant.refuse1 Cet endroit est absolument horrible ! Faites quelque chose, s'il vous plaît !
+npc.merchant.refuse2 Comment suis-je censé mener mes affaires dans un tel dépotoir ? Ce n'est pas un endroit pour quelqu'un d'aussi distingué que moi !
+
+npc.blacksmith.name Forgeron
+npc.blacksmith.generic0 Forgeons ces lingots, forgeons-les à la perfection avec nos marteaux !
+npc.blacksmith.generic1 Avant, je savais ouvrir les géodes en deux, mais j'ai oublié. P't'être que je m'en rappelerai un jour.
+npc.blacksmith.generic2 Comment j'ai perdu ce doigt ? Il est resté coincé pendant que j'me curais le nez. Et mon œil ? Vous voulez pas savoir... 
+npc.blacksmith.generic3 J'ai entendu parler d'un forgeron légendaire qui a réussi à forger une armure scénaristique. C't'une longue histoire, mais au final, tout le monde allait bien.
+npc.blacksmith.generic4 Dès que je visite un nouveau village, je vais directement voir leur forgeron. Il s'y passe toujours des trucs intéressants.
+npc.blacksmith.generic5 Vous savez, j'me d'mande si tout ce que vous trimbalez serait plus facile à transporter si on le faisait fondre en un seul gros tas.
+npc.blacksmith.generic6 Il parait que dans les profondeurs, sous la forêt, il y a une fleur plus solide que l'or. P't'être que ça vaudrait le coup d'aller y creuser.
+npc.blacksmith.generic7 Faut toujours tempérer ses attentes. Et son métal.
+npc.blacksmith.generic8 Peu importe que vous appeliez ça des lingots ou des barres, dans tous les cas, je leur donnerai un bon coup de marteau.
+npc.blacksmith.generic9 Il faut une pioche bien costaude pour certains minerais. J'ai entendu dire qu'il y en aurait une dans le donjon forestier.
+npc.blacksmith.refuse0 Si j'ai pas l'équipement dont j'ai b'soin, je peux rien faire pour vous. Vous pouvez retaper cette pièce ?
+npc.blacksmith.refuse1 C'est une chouette piaule, mais pas assez pour travailler et marchander avec vous.
+npc.blacksmith.refuse2 La chaleur de la forge me manque. Ce qu'il m'faudrait, c'est un peu de lave. Vous savez me trouver ça ?
+
+npc.farmer.name Fermier
+npc.farmer.generic0 J'me suis mis aux techniques de pointe pour c'qui est de l'agriculture. Les fermes à clics, par exemple !
+npc.farmer.generic1 Si ça vous intéresse, j'ai du matériel d'agriculture en stock. 
+npc.farmer.generic2 Si vous laissez de l'espace entre tes plantes, elles peuvent s'répandre toutes seules. Parfois, elles peuvent même muter en une plante différente.
+npc.farmer.generic3 Les mauvaises herbes, c't'ennuyeux, mais si on les laisse tranquille, ça peut donner des nouvelles plantes.
+npc.farmer.generic4 Si vous avez pas envie d'arroser à la main, rien de mieux qu'un arroseur. Ça arrose dans un rayon de 5 blocs sans que vous n'ayez rien à faire.
+npc.farmer.generic5 Les plantes, ça sert à concocter plein de potions. C'pas mon rayon, mais j'ai entendu dire que les myrtilles sont très réactives, ou quelque chose du genre.
+npc.farmer.generic6 Ma marchandise, c'est d'la qualité. Croyez-moi, j'ai rien d'un pauv' paysan miteux.
+npc.farmer.generic7 Même si l'agriculture vous intéresse pas, vous pouvez trouver plein de vers en labourant la terre. Moi, j'aime pas ça, mais je juge pas.
+npc.farmer.generic8 Pour trouver de nouvelles plantes, y'a pas d'secret. Il faut explorer, vous trouverez pas tout au même endroit.
+npc.farmer.generic9 Les plantes, ça aime l'humidité, mais les mauvaises herbes aussi. Et elles s'répandent plus vite, alors faites gaffe !
+npc.farmer.refuse0 J'ai b'soin d'une serre où faire pousser ma marchandise. Vous savez m'en construire une ?
+npc.farmer.refuse1 Il faut qu'je sente le soleil sur ma peau. Avant qu'on puisse marchander, j'ai b'soin d'un meilleur endroit où vivre.
+npc.farmer.refuse2 Cette pièce est bien trop sombre pour y faire pousser quoi qu'ce soit. J'ai b'soin de lumière naturelle !
+
+npc.builder.name Maçon
+npc.builder.generic0 J'adore construire avec des briques brunes ! C'est la chose la plus amusante que quelqu'un puisse faire !
+npc.builder.generic1 Je vends plein de matériaux de constructions utiles. Papier peint, peinture, décorations, il suffit de demander !
+npc.builder.generic2 Un jour, un de mes clients m'a demandé une pièce sombre, complètement isolée. Je croyais que c'était un vampire, mais en fait, il détestait juste les fenêtres.
+npc.builder.generic3 Si on vous demande de poser du papier peint beige et de la moquette, dites non ! J'ai fait l'erreur d'accepter une fois, et jamais pu terminer le boulot, les pièces étaient interminables !
+npc.builder.generic4 N'oubliez pas que vous pouvez modifier la forme d'un bloc sans marteau. Ouvrez le menu en tenant un bloc, et il se souviendra de la forme que vous voulez !
+npc.builder.generic5 Vous pouvez changer la forme de la plupart des blocs, même les bizarres. Si vous allez construire une cabane en terre, vous devriez au moins l'entourer d'une clôture en terre !
+npc.builder.generic6 Si la lumière ne vous plaît pas, peignez-la ! La peinture fonctionne sur les sources de lumière, et change la couleur de celle-ci.
+npc.builder.generic7 Si un bloc ne change pas de texture en la peignant, la peinture blanche le fera revenir à couleur d'origine. Puisque la peinture teint un bloc, peindre un bloc noir en noir, ça sert à rien.
+npc.builder.generic8 Les papiers peints sont parfaits pour séparer les pièces d'une maison. Chaque face d'une base pour papier peint peut accueillir un motif différent.
+npc.builder.generic9 Assurez-vous de toujours bâtir sur une fondation solide. Sinon, vous risqueriez de passer 3 mois à bosser sur du netcode !
+npc.builder.refuse0 Avant de marchander, j'aurais besoin d'un espace de travail où je peux fabriquer quelque chose.
+npc.builder.refuse1 Il me faudrait des ateliers pour que puisse fabriquer ma marchandise.
+npc.builder.refuse2 Désolé, mais sans ateliers, je ne peux pas faire quoi que ce soit pour vous.
+
+ui.generic.apply Appliquer
+ui.generic.back Retour
+ui.generic.info Infos
+ui.generic.delete Supprimer
+ui.generic.up En haut
+ui.generic.down En bas
+ui.generic.click_here Cliquez ici !
+
+ui.generic.open_compendium Ouvrez le compendium depuis le menu Pause pour cacher ce message.
+
+ui.inventory.sort Trier l'inventaire
+ui.inventory.toggle_large_craft Mode agrandi
+ui.inventory.stack_nearby Ranger dans les coffres proches
+
+item_category.all Tous
+item_category.blocks Blocs
+item_category.items Objets
+item_category.technical Mécanismes
+item_category.weapons Armes
+item_category.tools Outils
+item_category.decoration Décoration
+item_category.natural Naturel
+
+settings.fullscreen Plein écran

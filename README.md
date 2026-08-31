@@ -1,10 +1,16 @@
-## Allumeria fr-FR
-Cette repo est dédiée à la traduction de Allumeria en Français. (version Demo 0.14.1)
+# Allumeria fr-FR
+Traduction non-officielle du jeu [Allumeria](https://store.steampowered.com/app/3516590/Allumeria/) en français (France)
+
+> [!WARNING]
+> Certains textes, notamment dans les menus, s'afficheront en anglais même lorsque le pack est appliqué. Il s'agit d'un problème lié au jeu, et non au pack de traduction.
 	
-## Étapes
-Pour appliquer ces traductions au jeu, vous devrez effectuer ces étapes dans l'ordre :
-1. Allez sur Steam, dans votre bibliothèque puis cliquez sur `Allumeria Demo`. Cliquez sur la roue crantée, puis `Gérer`, et ensuite parcourez les fichiers locaux.
-2. Allez dans le dossier `res\translations`.
-3. Glissez-y le fichier `fr-Fr.zip` disponible dans l'onglet `Release` de cette repo, et cliquez sur extraire.
-4. Lancez le jeu et allez dans `Settings`, puis `Language`, repérez la traduction française et appuyez sur `Apply`.
-5. Redémarrez votre jeu et le jeu sera traduit !
+## Installation
+1. Téléchargez la [dernière version](https://github.com/Mazetta/allumeria-fr/releases/latest) du pack de traduction.
+2. Ouvrez votre bibliothèque Steam.
+3. Faites un clic droit sur Allumeria pour ouvrir le menu contextuel.
+4. Dans l'onglet `Gérer`, cliquez sur `Parcourir les fichiers locaux`.
+5. Dans l'explorateur, naviguez jusqu'au dossier `res\translations`.
+6. Déposez-y le pack de traduction, et décompressez-le.
+7. Lancez Allumeria et ouvrez les options.
+8. Le pack devrait apparaître dans l'onglet `Language`. Sélectionnez-le en cliquant sur le bouton `Apply`.
+9. Redémarrez le jeu pour appliquer la traduction.

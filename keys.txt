@@ -1274,6 +1274,7 @@ ui.generic.open_compendium Ouvrez le compendium depuis le menu Pause pour cacher
 ui.inventory.sort Trier l'inventaire
 ui.inventory.toggle_large_craft Mode agrandi
 ui.inventory.stack_nearby Ranger dans les coffres proches
+ui.inventory.toggle_creative Inventaire Créatif
 
 item_category.all Tous
 item_category.blocks Blocs

@@ -1,1 +1,7 @@
-{"name":"Fran\u00E7ais","gameVersion":"Beta 0.15","description":"Traduction fran\u00E7aise d\u0027Allumeria.","credit":"Mazeriio, Voxy","code":"fr-FR"}
+{
+  "name": "Français (France)",
+  "gameVersion": "0.15.2",
+  "description": "Traduction française non-officielle d'Allumeria.",
+  "credit": "Mazeriio, Voxy",
+  "code": "fr-FR"
+}

@@ -4,7 +4,7 @@ item.copper_axe Hache en cuivre
 item.copper_ingot Lingot de cuivre
 item.iron_ingot Lingot de fer
 item.health_potion Potion de soin
-item.health_potion.desc Restaure 5 cœurs.
+item.health_potion.desc Restaure 100 PV.
 item.empty Vide
 item.stone Roche
 item.unknown Inconnu
@@ -159,7 +159,7 @@ item.dart_trap.desc Tire des fléchettes empoisonnées.
 
 item.thorn_blade Lame épineuse
 item.regen_charm Pierre de régénération
-item.regen_charm.desc Restaure ¼ de cœur toutes les 4 secondes.
+item.regen_charm.desc Restaure 1 PV toutes les 4 secondes.
 item.jet_boots Bottes à réaction
 item.jet_boots.desc Sautez en l'air pour les enclencher, possèdent 1 seconde de carburant.
 item.spring_boots Bottes à ressorts
@@ -197,6 +197,7 @@ item.thick_birch_log Tronc de bouleau
 item.thick_maple_log Tronc d'érable
 item.thick_oak_log Tronc de chêne
 item.thick_pine_log Tronc de pin
+item.thick_palm_log Tronc de palmier
 item.trampoline Trampoline
 item.trampoline.desc Vous permet de rebondir très haut.
 item.launch_pad Rampe de lancement
@@ -219,14 +220,14 @@ item.cloth_light_pink Tissu rose clair
 item.cloth_brown Tissu marron
 
 item.weak_health_potion Petite potion de soin
-item.weak_health_potion.desc Restaure 2½ cœurs.
+item.weak_health_potion.desc Restaure 50 PV.
 item.poison_potion Potion de poison
 item.poison_potion.desc La boire n'est pas recommandé !
 item.speed_potion Potion de rapidité
 item.regen_potion Potion de régénération
-item.regen_potion.desc Restaure lentement des cœurs pendant 5 minutes.
+item.regen_potion.desc Restaure lentement votre santé pendant 5 minutes.
 item.armour_potion Potion de blindage
-item.armour_potion.desc Augmente votre défense de 4 points pendant 5 minutes.
+item.armour_potion.desc Augmente votre défense de 10 points pendant 5 minutes.
 item.respawn_potion Potion de retour
 item.respawn_potion.desc Vous téléporte à votre point d'apparition.
 item.flight_potion Potion de vol
@@ -385,7 +386,7 @@ item.sapphire_ore Saphir
 item.diamond_ore Diamant
 item.cobalt_plated_stone Roche plaquée de cobalt
 item.alpha_shop Magasin alpha
-item.alpha_shop.desc (Sera supprimé quand les PNJs seront ajoutés.)
+item.alpha_shop.desc Bloc obsolète.
 item.white_torch Torche blanche
 item.ice_crate Caisse de glace
 item.ice_chest Coffre de glace
@@ -440,7 +441,7 @@ item.spawn_skeleton Invocation de squelette
 item.spawn_wizard Invocation de sorcier
 item.spawn_wizard_ice Invocation de sorcier des glaces
 item.spawn_mushroomer Invocation de choupignon
-item.spawn_nightflyer Invocation d'avialien nocture
+item.spawn_nightflyer Invocation d'avialien nocturne
 item.spawn_snowman Invocation de bonhomme de neige
 item.spawn_stone_golem Invocation de golem de pierre
 item.spawn_yeti Invocation de yéti
@@ -609,7 +610,7 @@ item.spawn_sand_skeleton Invocation de squelette sablonneux
 item.spawn_faceless_miner Invocation de mineur sans visage
 item.thorns Épines
 item.sand_key_part Fragment de clé désertique
-item.sand_key_part.desc Vont par 3.
+item.sand_key_part.desc Assemblez-en 3.
 item.sakura_log Bûche de cerisier
 item.palm_leaves Feuilles de palmier
 item.sakura_leaves Feuilles de cerisier
@@ -621,8 +622,8 @@ item.bone_block Bloc d'os
 item.quicksand Sables mouvants
 item.quicksand.desc Vous avez un mauvais préssentiment...
 item.sandstone_grass Grès herbeux
-item.palm_sapling Pousse de palmier
-item.ice_cap Champignon de gel
+item.palm_sapling Datte de palmier
+item.ice_cap Champignon gelé
 item.orange_fungi Champignon orange
 item.palladium_ore Minerai de palladium
 item.palm_planks Planches de palmier
@@ -648,7 +649,7 @@ item.lush_grass_seed Graines d'herbe luxuriante
 item.lush_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
 item.forest_grass_seed Graines d'herbe forestière
 item.forest_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
-item.dry_grass_seed Graines d'herbe sèche
+item.dry_grass_seed Graines d'herbe automnale
 item.dry_grass_seed.desc Plantez-les dans de la terre pour faire pousser de l'herbe.
 item.gravel Gravier
 item.gold_flower Fleur dorée
@@ -659,6 +660,9 @@ item.painting_droplet Peinture (Goutelette)
 item.painting_ornate Peinture (Ornée)
 item.painting_parthenon Peinture (Parthénon)
 item.painting_horse Peinture (Cheval)
+
+item.bubble_mix Tube à bulles
+item.bubble_machine Machine à bulles
 
 guide.open_menu.name Le commencement
 guide.open_menu.desc Bienvenue dans le compendium ! Ce guide vous présentera de nouvelles choses à accomplir au fur et à mesure de votre progression. C'est facultatif, mais si vous êtes bloqués, n'hésitez pas à le consulter ! 
@@ -674,6 +678,10 @@ guide.sword.name Épée en silex
 guide.sword.desc Elle vous sera utile pour pourfendre les créatures qui rôdent la nuit.
 guide.axe.name Hache en silex
 guide.axe.desc Les haches coupent les blocs de bois plus rapidement que les autres outils.
+guide.night_danger.name La nuit arrive !
+guide.night_danger.desc Votre première nuit sera la plus difficile. Construisez-vous un abri et fabriquez des armes et de l'armure dès que possible. N'ayez pas peur d'aller miner.
+guide.biomes.name Restez dans la forêt !
+guide.biomes.desc Les biomes augmentent en difficulté. Ne quittez pas la forêt trop tôt, car vous ne survivrez pas au biome enneigé ou au désert pour l'instant.
 guide.make_housing.name Bâtiments
 guide.make_housing.desc Mieux vaut construire des bâtiments pour pouvoir y accueillir des PNJs (personnages non-jouables). Assurez-vous que la pièce est close et suffisamment éclairée, et placez un panneau PNJ pour vérifier que l'endroit est adéquat. 
 guide.decoration_station.name Ameublement
@@ -721,11 +729,11 @@ guide.ominous_skull.desc Ce crâne émet une faible lueur. Préparez-vous à fai
 guide.forest_key.name Clé forestière
 guide.forest_key.desc La clé d'un donjon mystérieux au cœur de la forêt. Essayez de trouver un énorme tronc de chêne.
 guide.spoon.name Cuillère à gelée
-guide.spoon.desc Un ornement qui vous permet de traverser certains blocs lorsqu'il est équipé.
+guide.spoon.desc Un ornement qui vous permet de traverser certains blocs lorsqu'il est équipé. Pour l'obtenir, combinez les fragments obtenus sur les monstres au sein du donjon.
 guide.forest_pickaxe.name Pioche forestière
 guide.forest_pickaxe.desc Avec cet outil en main, vous pourrez creuser encore plus profondément.
 guide.forest_blessing.name Bénédiction de la forêt
-guide.forest_blessing.desc Cet objet booste votre endurance temporairement.
+guide.forest_blessing.desc Cet objet à usage unique booste votre endurance.
 guide.forest_flower.name Fleur forestière
 guide.forest_flower.desc Un matériau utile que l'on trouve dans les florabysses.
 guide.forest_ingot.name Lingot forestier
@@ -737,14 +745,14 @@ guide.watering_can.desc Vous pouvez arroser vos cultures à la main grâce à un
 guide.sprinkler.name Mode automatique
 guide.sprinkler.desc Les arroseurs irrigueront vos cultures automatiquement dans un rayon de 5 blocs.
 guide.wheat.name Blé
-guide.wheat.desc Une variété commune de plante, qui sert à obtenir du pain, ou d'ingrédient d'alchimie.
+guide.wheat.desc Une variété commune de plante, qui sert à obtenir du pain ou des potions.
 guide.arrowroot.name Marante
 guide.arrowroot.desc La marante est une plante rare obtenue par mutation. On peut l'utiliser comme une flèche.
 guide.bomb_berry.name Baie-bombe
 guide.bomb_berry.desc Les baies-bombes explosent lorsqu'on les lance. Elles peuvent pousser spontanément sur de la terre labourée libre lorsque vous cultivez d'autres plantes.
 guide.fishing_rod.name Canne à pêche
 guide.fishing_rod.desc Pêcher sert à obtenir des ingrédients d'alchimie, et vous permet de compléter votre catalogue de pêche.
-guide.sprint_boots.name "Ajoute le sprint stp"
+guide.sprint_boots.name « Ajoute le sprint stp »
 guide.sprint_boots.desc Ces bottes vous permettent de courir ! Votre endurance est limitée, mais il existe des moyens de l'augmenter.
 guide.rose.name Sous tout autre nom...
 guide.rose.desc L'arrosage ne profite pas qu'aux cultures. Arroser d'autres blocs, comme l'herbe, peut faire pousser des fleurs et plantes uniques.
@@ -764,7 +772,7 @@ guide.snow_cannon.name Canon à neige
 guide.snow_cannon.desc Ce canon tire des boules de neige avec suffisamment de force pour faire très mal !
 guide.cobalt_ore.name Minerai de cobalt
 guide.cobalt_ore.desc Sans cobalt, vous n'irez pas très loin, alors au boulot !
-guide.ice_cap.name Champignon de gel
+guide.ice_cap.name Champignon gelé
 guide.ice_cap.desc Froids au toucher, ces champignons dissimulent une forte chaleur à l'intérieur, source de leur lueur si vive.
 guide.cobalt_ingot.name Lingot de cobalt
 guide.cobalt_ingot.desc Minerai, fourneau, lingot. Vous connaissez la chanson.
@@ -799,7 +807,7 @@ guide.desert_key_fragment.desc Vous les trouverez dans les ruines ensevelies.
 guide.desert_key.name Clé désertique
 guide.desert_key.desc La clé qui ouvre les portes du donjon désertique.
 guide.make_table.name Table
-guide.make_table.desc Les tables, c'est chouette. Ne pas manger sur une table abaissera votre niveau d'humeur de 3 points. (Je plaisante)
+guide.make_table.desc Les tables, c'est chouette. Ne pas manger sur une table abaissera votre niveau d'humeur de 3 points. (Je plaisante.)
 guide.make_lamp.name Lampe de chevet
 guide.make_lamp.desc Une lampe assez basique qui sert de décoration. Peindre l'abat-jour change la couleur de la lumière.
 guide.desert_shuriken.name Shuriken désertique
@@ -821,7 +829,7 @@ item_tag.melee_damage Mêlée
 item_tag.defence Défense
 item_tag.required_ammo Munitions requises
 item_tag.ammo Munitions
-item_tag.ranged_damage Distance
+item_tag.ranged_damage À distance
 item_tag.trinket Ornement
 item_tag.can_block Contre
 item_tag.knockback Recul
@@ -934,6 +942,7 @@ settings.files_header Emplacement des fichiers
 settings.button_open_backups Ouvrir les sauvegardes automatiques
 settings.button_open_save Ouvrir les sauvegardes
 settings.button_open_skins Ouvrir le dossier des skins
+settings.chunk_mesh_unload_time Secondes avant déchargement des tronçons
 keybind.toggle_third_person Activer 3e personne
 
 keybind.move_forward Avancer
@@ -981,8 +990,8 @@ keybind.send_chat Envoyer un message
 keybind.toggle_hud Basculer l'affichage de l'interface
 keybind.take_screenshot Capture d'écran
 keybind.open_radial Ouvrir le menu radial
-keybind.sneak S'accroupir
-keybind.sprint Courir
+keybind.sneak S'accroupir (avec ornement)
+keybind.sprint Courir (avec ornement)
 keybind.show_use Afficher les utilisations
 keybind.show_recipe Afficher les recettes
 keybind.pick_block Prendre le bloc
@@ -993,6 +1002,8 @@ keybind.fish_left Remonter le poisson à gauche
 keybind.fish_right Remonter le poisson à droite
 keybind.hotbar_left Gauche (barre d'action)
 keybind.hotbar_right Droite (barre d'action)
+keybind.move_stack_modifier Modificateur pour déplacer une pile
+keybind.delete_stack_modifier Modificateur pour supprimer une pile
 
 ammo.arrow Flèche
 ammo.rock Pierre
@@ -1058,16 +1069,16 @@ crafting_station.decorations Atelier de décoration
 crafting_station.potions Atelier d'alchimie
 
 loading.tip0 Les monstres n'apparaîtront que sur des blocs naturellement générés.
-loading.tip1 Appuyez sur «R» pour afficher les recettes d'un objet.
-loading.tip2 Maintenez «R» en tenant un bloc pour modifier sa forme.
+loading.tip1 Appuyez sur la touche des recettes pour afficher les recettes d'un objet.
+loading.tip2 Maintenez la touche de changement de forme en tenant un bloc pour modifier sa forme.
 loading.tip3 Les pousses peuvent muter si vous laissez de la terre fertile vide.
 loading.tip4 Faites attention aux pièges souterrains et dans les donjons.
 loading.tip5 Vous pouvez poser des rails à l'envers et sur les murs.
 loading.tip6 Les torches n'empêchent pas l'apparition des monstres dans les souterrains.
 loading.tip7 Utilisez un pointeur d'apparition pour définir votre point d'apparition.
 loading.tip8 Utilisez des potions de retour pour rentrer chez vous si vous êtes perdus.
-loading.tip9 Maintenez «CTRL» et cliquez sur des objets pour les envoyer à la poubelle.
-loading.tip10 Vous pouvez empiler automatiquement des objets dans les coffres à proximité.
+loading.tip9 Maintenez « CTRL » et cliquez sur des objets pour les envoyer à la poubelle.
+loading.tip10 Vous pouvez ranger automatiquement des objets dans les coffres à proximité.
 loading.tip11 Vous pouvez trier votre inventaire.
 loading.tip12 Certaines armes peuvent bloquer les attaques ennemies.
 loading.tip13 Utilisez l'atelier de décoration pour fabriquer des objets trop cools.
@@ -1078,7 +1089,7 @@ loading.tip17 Si vous trouvez un bug, merci de le signaler sur le Discord.
 loading.tip18 Des avis ? Rejoignez le Discord ou remplissez le formulaire.
 loading.tip19 La durabilité des outils n'existe pas, elle ne peut donc pas vous faire de mal.
 loading.tip20 Si vous laissez pousser des mauvaises herbes dans votre jardin, elles peuvent muter...
-loading.tip21 Appuyez sur «F11» pour activer le mode plein écran.
+loading.tip21 Placez un panneau de maison pour PNJ pour inviter des villageois.
 loading.tip22 Jouer au basket durant un combat de boss peut être bénéfique.
 loading.tip23 Les batte-cœurs peuvent être utilisées pour augmenter votre vie maximale. 
 loading.tip24 Les flèches explosives sont dangereuses lors d'un combat rapproché.
@@ -1258,7 +1269,7 @@ ui.generic.up En haut
 ui.generic.down En bas
 ui.generic.click_here Cliquez ici !
 
-ui.generic.open_compendium Ouvrez compendium depuis le menu Pause pour cacher ce message.
+ui.generic.open_compendium Ouvrez le compendium depuis le menu Pause pour cacher ce message.
 
 ui.inventory.sort Trier l'inventaire
 ui.inventory.toggle_large_craft Mode agrandi
@@ -1272,3 +1283,5 @@ item_category.weapons Armes
 item_category.tools Outils
 item_category.decoration Décoration
 item_category.natural Naturel
+
+settings.fullscreen Plein écran
